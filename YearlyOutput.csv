@@ -1,0 +1,1057 @@
+RunID, LON, LAT, Mukey, MUSYM, COMPNAME, MUNAME, TEXTURE, SLOPE_R, NIRRCAPCL, NIRRCAPSCL, NIRRCAPUNIT, RSPROD_L, RSPROD_R, RSPROD_H, COKEY, Year, Yield_T_HA, Biomass_T_HA, ET_mm, MX_HU, HarvMoDay, WUE
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2008, 0.03, 0.04, 167.24, 200, , 0.1304348
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2009, 0.02, 0.03, 167.24, 99, , 0.08695652
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2010, 0.03, 0.05, 167.24, 200, , 0.1304348
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2011, 0.01, 0.02, 167.24, 94, , 0.04347826
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2012, 0.03, 0.04, 251.69, 200, , 0.15
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2013, 0.01, 0.02, 251.69, 138, , 0.05
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2014, 0.03, 0.05, 251.69, 200, , 0.15
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2015, 0.01, 0.02, 251.69, 56, , 0.05
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2016, 0.03, 0.04, 216.06, 200, , 0.1071429
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2017, 0.01, 0.02, 216.06, 119, , 0.03571429
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2018, 0.03, 0.05, 216.06, 200, , 0.1071429
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2019, 0.01, 0.02, 216.06, 103, , 0.03571429
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2020, 0.03, 0.04, 248.82, 182, , 0.1764706
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2021, 0.01, 0.03, 248.82, 74, , 0.05882353
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2022, 0.03, 0.05, 248.82, 200, , 0.1764706
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2023, 0.01, 0.02, 248.82, 53, , 0.05882353
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2024, 0.03, 0.04, 173.92, 200, , 0.1111111
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2025, 0.02, 0.03, 173.92, 220, , 0.07407407
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2026, 0.03, 0.05, 173.92, 200, , 0.1111111
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2027, 0.01, 0.02, 173.92, 107, , 0.03703704
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2028, 0.03, 0.05, 181.45, 200, , 0.1
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2029, 0.02, 0.02, 181.45, 197, , 0.06666667
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2030, 0.03, 0.05, 181.45, 200, , 0.1
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2031, 0.01, 0.02, 181.45, 50, , 0.03333334
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2032, 0.03, 0.05, 251.84, 200, , 0.09375
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2033, 0.01, 0.02, 251.84, 215, , 0.03125
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2034, 0.03, 0.05, 251.84, 200, , 0.09375
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2035, 0.01, 0.02, 251.84, 117, , 0.03125
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2036, 0.03, 0.05, 262.1, 200, , 0.07894737
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2037, 0.02, 0.02, 262.1, 220, , 0.05263158
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2038, 0.03, 0.05, 262.1, 200, , 0.07894737
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2039, 0.01, 0.03, 262.1, 70, , 0.02631579
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2040, 0.03, 0.05, 183.44, 200, , 0.09677419
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2041, 0.02, 0.03, 183.44, 220, , 0.06451613
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2042, 0.03, 0.05, 183.44, 200, , 0.09677419
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2043, 0.01, 0.02, 183.44, 130, , 0.03225806
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2044, 0.03, 0.04, 217.4, 200, , 0.125
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2045, 0.03, 0.04, 217.4, 203, , 0.125
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2046, 0.03, 0.05, 217.4, 200, , 0.125
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2047, 0.01, 0.02, 217.4, 101, , 0.04166667
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2048, 0.03, 0.04, 199.2, 200, , 0.12
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2049, 0.02, 0.02, 199.2, 204, , 0.08
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2050, 0.03, 0.05, 199.2, 200, , 0.12
+10, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2051, 0.01, 0.03, 199.2, 74, , 0.04
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0.03, 0.05, 173.68, 220, , 0.07317073
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.02, 0.03, 173.68, 220, , 0.04878049
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.03, 0.05, 173.68, 220, , 0.07317073
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.01, 0.02, 173.68, 68, , 0.02439024
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0.03, 0.04, 178.13, 205, , 0.08333334
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.02, 0.03, 178.13, 91, , 0.05555556
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0.03, 0.05, 178.13, 220, , 0.08333334
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.01, 0.02, 178.13, 117, , 0.02777778
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0.03, 0.04, 264.04, 220, , 0.07692308
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.01, 0.02, 264.04, 115, , 0.02564103
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.03, 0.05, 264.04, 220, , 0.07692308
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.03, 264.04, 63, , 0.02564103
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0.03, 0.05, 195.17, 220, , 0.06666667
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.01, 0.02, 195.17, 87, , 0.02222222
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.03, 0.05, 195.17, 220, , 0.06666667
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.01, 0.02, 195.17, 109, , 0.02222222
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0.03, 0.04, 187.35, 162, , 0.1034483
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.03, 0.05, 187.35, 67, , 0.1034483
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0.03, 0.05, 187.35, 220, , 0.1034483
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.01, 0.03, 187.35, 66, , 0.03448276
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0.03, 0.04, 199.9, 220, , 0.06666667
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.03, 0.04, 199.9, 191, , 0.06666667
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.03, 0.05, 199.9, 220, , 0.06666667
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.02, 199.9, 99, , 0.02222222
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0.03, 0.05, 186.37, 220, , 0.05555556
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0.02, 0.02, 186.37, 197, , 0.03703704
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.03, 0.05, 186.37, 220, , 0.05555556
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.01, 0.02, 186.37, 70, , 0.01851852
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0.03, 0.05, 213.91, 220, , 0.06122449
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.02, 0.02, 213.91, 191, , 0.04081633
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0.03, 0.05, 213.91, 220, , 0.06122449
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0.01, 0.02, 213.91, 109, , 0.02040816
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0.03, 0.05, 210.49, 220, , 0.04918033
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.01, 0.02, 210.49, 202, , 0.01639344
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.03, 0.05, 210.49, 220, , 0.04918033
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.03, 210.49, 87, , 0.01639344
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0.03, 0.05, 204.4, 220, , 0.06976745
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0.02, 0.02, 204.4, 220, , 0.04651163
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.03, 0.05, 204.4, 220, , 0.06976745
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.01, 0.02, 204.4, 126, , 0.02325581
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 0.03, 0.05, 199.94, 220, , 0.08333334
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.02, 0.03, 199.94, 177, , 0.05555556
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0.03, 0.05, 199.94, 220, , 0.08333334
+11, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0.01, 0.02, 199.94, 104, , 0.02777778
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2008, 0.11, 0.16, 92.25, 220, , 0.01018518
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2009, 0.03, 0.04, 92.25, 220, , 0.002777778
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2010, 0.14, 0.19, 92.25, 220, , 0.01296296
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2011, 0.02, 0.04, 92.25, 132, , 0.001851852
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2012, 0.08, 0.12, 127.44, 220, , 0.007582938
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2013, 0.03, 0.05, 127.44, 220, , 0.002843602
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2014, 0.11, 0.16, 127.44, 220, , 0.01042654
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2015, 0.01, 0.03, 127.44, 92, , 0.0009478673
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2016, 0.1, 0.13, 169.22, 220, , 0.0106383
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2017, 0.03, 0.04, 169.22, 220, , 0.003191489
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2018, 0.1, 0.14, 169.22, 220, , 0.0106383
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2019, 0.01, 0.03, 169.22, 121, , 0.00106383
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2020, 0.1, 0.13, 141.19, 220, , 0.01124859
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2021, 0.02, 0.03, 141.19, 220, , 0.002249719
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2022, 0.11, 0.15, 141.19, 220, , 0.01237345
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2023, 0.01, 0.02, 141.19, 85, , 0.001124859
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2024, 0.07, 0.1, 171.46, 220, , 0.00729927
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2025, 0.03, 0.03, 171.46, 220, , 0.003128259
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2026, 0.12, 0.16, 171.46, 220, , 0.01251303
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2027, 0.03, 0.04, 171.46, 165, , 0.003128259
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2028, 0.1, 0.14, 156.98, 220, , 0.008431703
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2029, 0.03, 0.04, 156.98, 220, , 0.002529511
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2030, 0.14, 0.19, 156.98, 220, , 0.01180438
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2031, 0.01, 0.02, 156.98, 129, , 0.0008431703
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2032, 0.07, 0.09, 138.36, 220, , 0.007559395
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2033, 0.03, 0.04, 138.36, 220, , 0.003239741
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2034, 0.1, 0.14, 138.36, 220, , 0.01079914
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2035, 0.02, 0.04, 138.36, 172, , 0.002159827
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2036, 0.1, 0.15, 126.97, 220, , 0.009727626
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2037, 0.03, 0.04, 126.97, 220, , 0.002918288
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2038, 0.11, 0.15, 126.97, 220, , 0.01070039
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2039, 0.03, 0.04, 126.97, 175, , 0.002918288
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2040, 0.08, 0.11, 150.23, 220, , 0.01147776
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2041, 0.04, 0.05, 150.23, 220, , 0.005738881
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2042, 0.11, 0.15, 150.23, 220, , 0.01578192
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2043, 0.03, 0.04, 150.23, 186, , 0.004304161
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2044, 0.1, 0.14, 142.67, 220, , 0.009596929
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2045, 0.04, 0.05, 142.67, 220, , 0.003838771
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2046, 0.15, 0.21, 142.67, 220, , 0.01439539
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2047, 0.02, 0.04, 142.67, 120, , 0.001919386
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2048, 0.1, 0.14, 128.8, 220, , 0.009082652
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2049, 0.04, 0.05, 128.8, 220, , 0.003633061
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2050, 0.12, 0.17, 128.8, 220, , 0.01089918
+12, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2051, 0.02, 0.04, 128.8, 144, , 0.00181653
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0.02, 0.03, 179.77, 99, , 0.001414427
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0, 0, 179.77, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.07, 0.11, 179.77, 332, , 0.004950495
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.01, 0.02, 179.77, 113, , 0.0007072136
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0, 0, 279.26, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.11, 0.18, 279.26, 209, , 0.003998546
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0.01, 0.02, 279.26, 121, , 0.0003635042
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.01, 0.02, 279.26, 54, , 0.0003635042
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0, 0, 253.17, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.1, 0.19, 253.17, 51, , 0.001339764
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.01, 0.02, 253.17, 95, , 0.0001339764
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.02, 253.17, 98, , 0.0001339764
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0, 0, 266.38, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.13, 0.24, 266.38, 57, , 0.001321138
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.03, 0.05, 266.38, 68, , 0.000304878
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.01, 0.03, 266.38, 55, , 0.000101626
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0, 0, 208.64, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.15, 0.25, 208.64, 255, , 0.003739716
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0.02, 0.03, 208.64, 203, , 0.0004986288
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.01, 0.02, 208.64, 90, , 0.0002493144
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0, 0, 230.41, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.09, 0.16, 230.41, 221, , 0.001204497
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.02, 0.02, 230.41, 209, , 0.0002676659
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.02, 230.41, 67, , 0.000133833
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0, 0, 247.39, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0.13, 0.21, 247.39, 371, , 0.001861398
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.02, 0.02, 247.39, 205, , 0.0002863689
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.01, 0.02, 247.39, 106, , 0.0001431844
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0, 0, 288.25, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.13, 0.19, 288.25, 650, , 0.001043758
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0.01, 0.02, 288.25, 198, , 8.028904E-05
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0.01, 0.03, 288.25, 72, , 8.028904E-05
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0, 0, 271.15, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.12, 0.17, 271.15, 650, , 0.001139926
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.01, 0.02, 271.15, 220, , 9.499383E-05
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.02, 271.15, 122, , 9.499383E-05
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0, 0, 279.51, 0, , 0
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0.09, 0.14, 279.51, 445, , 0.0007834944
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.02, 0.03, 279.51, 181, , 0.0001741099
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.01, 0.02, 279.51, 96, , 8.705493E-05
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 5.2, 7.29, 221.41, 7500, , 0.06434847
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.1, 0.17, 221.41, 318, , 0.001237471
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0.02, 0.03, 221.41, 197, , 0.0002474941
+13, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0.01, 0.03, 221.41, 64, , 0.0001237471
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2008, 0.03, 0.04, 89.95, 136, , 0.001831502
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2009, 0.04, 0.07, 89.95, 280, , 0.002442003
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2010, 0, 0, 89.95, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2011, 0.01, 0.03, 89.95, 59, , 0.0006105006
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2012, 0.25, 0.37, 159.92, 535, , 0.003622663
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2013, 0, 0, 159.92, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2014, 0.03, 0.05, 159.92, 211, , 0.0004347196
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2015, 0.01, 0.03, 159.92, 31, , 0.0001449065
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2016, 0.26, 0.37, 305.71, 650, , 0.001778994
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2017, 0, 0, 305.71, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2018, 0.03, 0.04, 305.71, 220, , 0.0002052686
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2019, 0.01, 0.03, 305.71, 68, , 6.842285E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2020, 0.27, 0.39, 276.08, 545, , 0.002034818
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2021, 0, 0, 276.08, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2022, 0.03, 0.04, 276.08, 143, , 0.0002260909
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2023, 0.01, 0.03, 276.08, 44, , 7.536363E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2024, 0.3, 0.43, 243.39, 632, , 0.002802167
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2025, 0, 0, 243.39, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2026, 0.03, 0.05, 243.39, 220, , 0.0002802167
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2027, 0.01, 0.03, 243.39, 88, , 9.340556E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2028, 0.31, 0.43, 287.4, 650, , 0.001936169
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2029, 0, 0, 287.4, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2030, 0.03, 0.04, 287.4, 220, , 0.0001873712
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2031, 0.01, 0.03, 287.4, 74, , 6.245706E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2032, 0.31, 0.43, 218.03, 650, , 0.003108393
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2033, 0, 0, 218.03, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2034, 0.03, 0.05, 218.03, 220, , 0.0003008122
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2035, 0.01, 0.03, 218.03, 93, , 0.0001002707
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2036, 0.23, 0.32, 232.3, 650, , 0.001686093
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2037, 0, 0, 232.3, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2038, 0.02, 0.03, 232.3, 220, , 0.0001466168
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2039, 0.01, 0.03, 232.3, 103, , 7.330841E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2040, 0.24, 0.34, 260.6, 650, , 0.001697553
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2041, 0, 0, 260.6, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2042, 0.04, 0.05, 260.6, 220, , 0.0002829254
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2043, 0, 0.05, 260.6, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2044, 0.26, 0.4, 234.56, 421, , 0.002014567
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2045, 0, 0, 234.56, 0, , 0
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2046, 0.04, 0.05, 234.56, 211, , 0.0003099334
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2047, 0.01, 0.03, 234.56, 52, , 7.748334E-05
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2048, 0.33, 0.46, 233.02, 650, , 0.002449889
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2049, 7.52, 10.55, 233.02, 7500, , 0.05582777
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2050, 0.03, 0.05, 233.02, 220, , 0.0002227171
+14, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2051, 0.01, 0.03, 233.02, 90, , 7.423905E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2008, 0, 0, 249.95, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2009, 0.05, 0.07, 249.95, 541, , 0.006459948
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2010, 0.02, 0.03, 249.95, 220, , 0.002583979
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2011, 0.01, 0.02, 249.95, 62, , 0.00129199
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2012, 0, 0, 221.12, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2013, 0.05, 0.07, 221.12, 650, , 0.001407261
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2014, 0.03, 0.05, 221.12, 220, , 0.0008443569
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2015, 0.01, 0.02, 221.12, 117, , 0.0002814523
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2016, 0, 0, 267.71, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2017, 0.04, 0.06, 267.71, 437, , 0.0003522057
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2018, 0.02, 0.02, 267.71, 138, , 0.0001761028
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2019, 0.01, 0.03, 267.71, 123, , 8.805142E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2020, 0, 0, 305.88, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2021, 0.04, 0.06, 305.88, 546, , 0.0004159301
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2022, 0.01, 0.02, 305.88, 216, , 0.0001039825
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2023, 0.01, 0.02, 305.88, 95, , 0.0001039825
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2024, 0, 0, 243.92, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2025, 0.03, 0.04, 243.92, 463, , 0.0004454343
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2026, 0.01, 0.02, 243.92, 138, , 0.0001484781
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2027, 0.01, 0.03, 243.92, 132, , 0.0001484781
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2028, 0, 0, 388, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2029, 0.01, 0.02, 388, 456, , 6.931929E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2030, 0.01, 0.02, 388, 122, , 6.931929E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2031, 0.01, 0.03, 388, 79, , 6.931929E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2032, 0, 0, 270.81, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2033, 0.01, 0.01, 270.81, 650, , 9.478673E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2034, 0.03, 0.04, 270.81, 220, , 0.0002843602
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2035, 0.02, 0.03, 270.81, 155, , 0.0001895735
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2036, 0, 0, 287.31, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2037, 0.01, 0, 287.31, 466, , 7.802138E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2038, 0.02, 0.02, 287.31, 206, , 0.0001560428
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2039, 0.01, 0.02, 287.31, 50, , 7.802138E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2040, 0, 0, 339.36, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2041, 0.01, 0, 339.36, 604, , 5.93789E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2042, 0.01, 0.02, 339.36, 197, , 5.93789E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2043, 0.02, 0.03, 339.36, 161, , 0.0001187578
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2044, 0, 0, 322.21, 0, , 0
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2045, 0.01, -0.01, 322.21, 650, , 6.680473E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2046, 0.02, 0.02, 322.21, 220, , 0.0001336095
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2047, 0.01, 0.03, 322.21, 113, , 6.680473E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2048, 6, 8.42, 271.47, 0, , 0.04780877
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2049, 0.01, -0.01, 271.47, 650, , 7.968127E-05
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2050, 0.03, 0.04, 271.47, 220, , 0.0002390438
+15, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2051, 0.02, 0.04, 271.47, 175, , 0.0001593625
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2008, 0, 0, 171.51, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2009, 0.02, 0.03, 171.51, 99, , 0.003034901
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2010, 0.04, 0.06, 171.51, 332, , 0.006069803
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2011, 0.01, 0.02, 171.51, 94, , 0.001517451
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2012, 0, 0, 267.36, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2013, 0.06, 0.09, 267.36, 373, , 0.003169572
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2014, 0.01, 0.02, 267.36, 138, , 0.000528262
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2015, 0.01, 0.02, 267.36, 56, , 0.000528262
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2016, 0, 0, 264.01, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2017, 0.07, 0.11, 264.01, 440, , 0.0009738453
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2018, 0.01, 0.02, 264.01, 119, , 0.0001391208
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2019, 0.01, 0.02, 264.01, 103, , 0.0001391208
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2020, 0, 0, 370.8, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2021, 0.06, 0.09, 370.8, 232, , 0.0004475608
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2022, 0.01, 0.03, 370.8, 74, , 7.459347E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2023, 0.01, 0.02, 370.8, 53, , 7.459347E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2024, 0, 0, 199.6, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2025, 0.05, 0.07, 199.6, 486, , 0.000823859
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2026, 0.02, 0.03, 199.6, 220, , 0.0003295436
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2027, 0.01, 0.02, 199.6, 107, , 0.0001647718
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2028, 0, 0, 217.61, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2029, 0.02, 0.03, 217.61, 445, , 0.0002868206
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2030, 0.02, 0.02, 217.61, 199, , 0.0002868206
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2031, 0.01, 0.02, 217.61, 50, , 0.0001434103
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2032, 0, 0, 290.69, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2033, 0.01, 0.02, 290.69, 650, , 9.23361E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2034, 0.01, 0.02, 290.69, 220, , 9.23361E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2035, 0.01, 0.02, 290.69, 117, , 9.23361E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2036, 0, 0, 317.97, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2037, 0.01, 0.01, 317.97, 650, , 7.765784E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2038, 0.02, 0.02, 317.97, 220, , 0.0001553157
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2039, 0.01, 0.03, 317.97, 70, , 7.765784E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2040, 0, 0, 261.35, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2041, 0.01, 0, 261.35, 650, , 8.163265E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2042, 0.02, 0.03, 261.35, 220, , 0.0001632653
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2043, 0.01, 0.02, 261.35, 130, , 8.163265E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2044, 0, 0, 316.45, 0, , 0
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2045, 0.01, 0, 316.45, 513, , 6.761325E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2046, 0.03, 0.04, 316.45, 203, , 0.0002028398
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2047, 0.01, 0.02, 316.45, 101, , 6.761325E-05
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2048, 6.06, 8.5, 249.45, 9200, , 0.0633295
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2049, 0.01, -0.01, 249.45, 534, , 0.0001045041
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2050, 0.02, 0.02, 249.45, 205, , 0.0002090083
+16, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2051, 0.01, 0.03, 249.45, 74, , 0.0001045041
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0, 0, 190.9, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.12, 0.18, 190.9, 502, , 0.004964832
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.02, 0.03, 190.9, 220, , 0.0008274721
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.01, 0.02, 190.9, 68, , 0.000413736
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0, 0, 210.28, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.2, 0.33, 210.28, 327, , 0.004944376
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0.02, 0.03, 210.28, 91, , 0.0004944376
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.01, 0.02, 210.28, 117, , 0.0002472188
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0, 0, 346.64, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.32, 0.5, 346.64, 414, , 0.003010065
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.01, 0.02, 346.64, 115, , 9.406453E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.03, 346.64, 63, , 9.406453E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0, 0, 282.55, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.36, 0.56, 282.55, 418, , 0.00327839
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.01, 0.02, 282.55, 87, , 9.106639E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.01, 0.02, 282.55, 109, , 9.106639E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0, 0, 265.97, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.28, 0.46, 265.97, 300, , 0.002709765
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0.03, 0.05, 265.97, 67, , 0.000290332
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.01, 0.03, 265.97, 66, , 9.677732E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0, 0, 216.11, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.28, 0.4, 216.11, 555, , 0.005938494
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.03, 0.04, 216.11, 191, , 0.0006362672
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.02, 216.11, 99, , 0.0002120891
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0, 0, 234.46, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0.17, 0.25, 234.46, 483, , 0.002160651
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.02, 0.02, 234.46, 202, , 0.0002541942
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.01, 0.02, 234.46, 70, , 0.0001270971
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0, 0, 257.43, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.13, 0.19, 257.43, 637, , 0.00156948
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0.02, 0.02, 257.43, 191, , 0.0002414584
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0.01, 0.02, 257.43, 109, , 0.0001207292
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0, 0, 295.96, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.06, 0.09, 295.96, 650, , 0.0004639295
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.01, 0.02, 295.96, 202, , 7.732158E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.03, 295.96, 87, , 7.732158E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0, 0, 271.02, 0, , 0
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0.03, 0.05, 271.02, 650, , 0.000284522
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.02, 0.02, 271.02, 220, , 0.0001896813
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.01, 0.02, 271.02, 126, , 9.484067E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 5.72, 8.03, 274.93, 7500, , 0.05173193
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.01, 0.02, 274.93, 556, , 9.044044E-05
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0.02, 0.03, 274.93, 177, , 0.0001808809
+17, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0.01, 0.02, 274.93, 104, , 9.044044E-05
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2008, 0.03, 0.05, 100.73, 206, , 0.001515917
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2009, 0.09, 0.14, 100.73, 365, , 0.004547752
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2010, 0, 0, 100.73, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2011, 0.02, 0.04, 100.73, 132, , 0.001010611
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2012, 0.22, 0.31, 205.03, 650, , 0.002392344
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2013, 0, 0, 205.03, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2014, 0.03, 0.05, 205.03, 220, , 0.0003262288
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2015, 0.01, 0.03, 205.03, 71, , 0.0001087429
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2016, 0.18, 0.26, 315.25, 650, , 0.0009746589
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2017, 0, 0, 315.25, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2018, 0.03, 0.04, 315.25, 220, , 0.0001624431
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2019, 0.01, 0.03, 315.25, 121, , 5.414772E-05
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2020, 0.2, 0.28, 226.37, 650, , 0.001744896
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2021, 0, 0, 226.37, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2022, 0.02, 0.03, 226.37, 220, , 0.0001744896
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2023, 0.01, 0.02, 226.37, 85, , 8.724481E-05
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2024, 0.21, 0.29, 196.08, 650, , 0.002988048
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2025, 0, 0, 196.08, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2026, 0.03, 0.03, 196.08, 220, , 0.000426864
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2027, 0.03, 0.04, 196.08, 165, , 0.000426864
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2028, 0.17, 0.23, 226.26, 650, , 0.00136656
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2029, 0, 0, 226.26, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2030, 0.03, 0.04, 226.26, 220, , 0.0002411576
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2031, 0.01, 0.02, 226.26, 129, , 8.038585E-05
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2032, 0.21, 0.3, 153.6, 650, , 0.003833516
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2033, 0, 0, 153.6, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2034, 0.03, 0.04, 153.6, 220, , 0.0005476451
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2035, 0.02, 0.04, 153.6, 172, , 0.0003650968
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2036, 0.13, 0.18, 193.58, 650, , 0.001211331
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2037, 0, 0, 193.58, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2038, 0.03, 0.04, 193.58, 220, , 0.0002795378
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2039, 0.03, 0.04, 193.58, 175, , 0.0002795378
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2040, 0.15, 0.22, 245.96, 650, , 0.001086956
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2041, 0, 0, 245.96, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2042, 0.04, 0.05, 245.96, 220, , 0.0002898551
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2043, 0.03, 0.04, 245.96, 186, , 0.0002173913
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2044, 0.2, 0.28, 276.37, 650, , 0.001148765
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2045, 0, 0, 276.37, 0, , 0
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2046, 0.04, 0.05, 276.37, 220, , 0.000229753
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2047, 0.02, 0.04, 276.37, 120, , 0.0001148765
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2048, 0.18, 0.26, 225.63, 650, , 0.001316463
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2049, 7.53, 10.56, 225.63, 7500, , 0.05507204
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2050, 0.04, 0.05, 225.63, 220, , 0.0002925474
+18, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2051, 0.02, 0.04, 225.63, 144, , 0.0001462737
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0, 0, 180.05, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.07, 0.11, 180.05, 332, , 0.004957507
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0, 0, 282.1, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.18, 0.27, 282.1, 429, , 0.005719733
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0, 0, 256.23, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.22, 0.34, 256.23, 434, , 0.002793296
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0, 0, 267.48, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.19, 0.31, 267.48, 305, , 0.001918417
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0, 0, 209.49, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.19, 0.28, 209.49, 573, , 0.004616132
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0, 0, 233.14, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.11, 0.16, 233.14, 495, , 0.001426719
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0, 0, 251.01, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.08, 0.12, 251.01, 650, , 0.001092448
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0, 0, 289.01, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.03, 0.05, 289.01, 650, , 0.000240481
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0, 0, 275.46, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.02, 0.02, 275.46, 650, , 0.0001832845
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0, 0, 279.72, 0, , 0
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.01, 0.01, 279.72, 571, , 8.716876E-05
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 5.4, 7.57, 222.18, 7500, , 0.06617647
+19, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.01, 0.01, 222.18, 583, , 0.000122549
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0.03, 0.05, 181.12, 205, , 0.001964637
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0, 0, 181.12, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.06, 0.1, 181.12, 325, , 0.003929273
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.02, 0.03, 181.12, 99, , 0.001309758
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0.04, 0.06, 181.12, 220, , 0.002619515
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.01, 0.02, 181.12, 113, , 0.0006548789
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0, 0, 280.64, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.11, 0.18, 280.64, 199, , 0.003850193
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0.04, 0.05, 280.64, 220, , 0.00140007
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.02, 0.04, 280.64, 72, , 0.000700035
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.04, 0.05, 280.64, 220, , 0.00140007
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.02, 280.64, 54, , 0.0003500175
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0, 0, 253.98, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.1, 0.19, 253.98, 110, , 0.001330318
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.04, 0.05, 253.98, 220, , 0.0005321272
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.02, 0.04, 253.98, 28, , 0.0002660636
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0.03, 0.05, 253.98, 220, , 0.0003990954
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.01, 0.02, 253.98, 98, , 0.0001330318
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0, 0, 266.67, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.16, 0.25, 266.67, 305, , 0.001612741
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0.03, 0.04, 266.67, 166, , 0.0003023889
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.03, 0.05, 266.67, 68, , 0.0003023889
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.03, 0.05, 266.67, 220, , 0.0003023889
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.03, 266.67, 55, , 0.0001007963
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0, 0, 209.03, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0.2, 0.29, 209.03, 573, , 0.00487092
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.03, 0.04, 209.03, 220, , 0.0007306381
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.02, 0.03, 209.03, 203, , 0.0004870921
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0.03, 0.05, 209.03, 220, , 0.0007306381
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.01, 0.02, 209.03, 90, , 0.000243546
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0, 0, 230.92, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0.1, 0.16, 230.92, 221, , 0.001333689
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0.04, 0.06, 230.92, 220, , 0.0005334756
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.03, 0.05, 230.92, 133, , 0.0004001067
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.03, 0.05, 230.92, 220, , 0.0004001067
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.02, 230.92, 67, , 0.0001333689
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0, 0, 247.76, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0.13, 0.2, 247.76, 333, , 0.001856878
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.04, 0.05, 247.76, 220, , 0.000571347
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.03, 0.04, 247.76, 131, , 0.0004285102
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 0.03, 0.05, 247.76, 220, , 0.0004285102
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.01, 0.02, 247.76, 106, , 0.0001428367
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0, 0, 288.48, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0.12, 0.17, 288.48, 650, , 0.0009651734
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2052, 0.03, 0.05, 288.48, 220, , 0.0002412933
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2053, 0.01, 0.02, 288.48, 198, , 8.043111E-05
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2054, 0.03, 0.05, 288.48, 220, , 0.0002412933
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2055, 0.01, 0.03, 288.48, 72, , 8.043111E-05
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2056, 0, 0, 271.45, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2057, 0.12, 0.17, 271.45, 650, , 0.001136364
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2058, 0.04, 0.05, 271.45, 220, , 0.0003787879
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2059, 0.01, 0.02, 271.45, 220, , 9.469697E-05
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2060, 0.03, 0.05, 271.45, 220, , 0.0002840909
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2061, 0.01, 0.02, 271.45, 122, , 9.469697E-05
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2062, 0, 0, 279.64, 0, , 0
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2063, 0.09, 0.14, 279.64, 402, , 0.0007819967
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2064, 0.03, 0.05, 279.64, 220, , 0.0002606656
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2065, 0.02, 0.03, 279.64, 142, , 0.0001737771
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2066, 0.03, 0.05, 279.64, 220, , 0.0002606656
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2067, 0.01, 0.02, 279.64, 96, , 8.688853E-05
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2068, 5.18, 7.27, 221.4, 7500, , 0.06399802
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2069, 0.1, 0.15, 221.4, 583, , 0.001235483
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2070, 0.03, 0.04, 221.4, 220, , 0.0003706449
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2071, 0.02, 0.03, 221.4, 197, , 0.0002470966
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2072, 0.03, 0.05, 221.4, 220, , 0.0003706449
+1, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2073, 0.01, 0.03, 221.4, 64, , 0.0001235483
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2008, 0, 0, 93.89, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2009, 0.15, 0.22, 93.89, 513, , 0.0066313
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2010, 0, 0, 152.26, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2011, 0.28, 0.41, 152.26, 535, , 0.004226415
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2012, 0, 0, 297.58, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2013, 0.27, 0.38, 297.58, 650, , 0.001891154
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2014, 0, 0, 274.54, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2015, 0.24, 0.35, 274.54, 545, , 0.001764836
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2016, 0, 0, 239.69, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2017, 0.24, 0.34, 239.69, 632, , 0.002252675
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2018, 0, 0, 283.58, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2019, 0.18, 0.26, 283.58, 650, , 0.001127678
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2020, 0, 0, 215.69, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2021, 0.11, 0.16, 215.69, 650, , 0.001097038
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2022, 0, 0, 228.09, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2023, 0.07, 0.1, 228.09, 650, , 0.0005154639
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2024, 0, 0, 255.96, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2025, 0.06, 0.09, 255.96, 650, , 0.0004245083
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2026, 0, 0, 231.3, 0, , 0
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2027, 0.06, 0.09, 231.3, 558, , 0.0004654771
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2028, 7.75, 10.88, 228.13, 7500, , 0.05801767
+20, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2029, 0.09, 0.13, 228.13, 650, , 0.0006737536
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2008, 0, 0, 249.82, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2009, 0.05, 0.07, 249.82, 565, , 0.006535948
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2010, 0, 0, 220.92, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2011, 0.05, 0.07, 220.92, 650, , 0.001411632
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2012, 0, 0, 267.7, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2013, 0.04, 0.06, 267.7, 437, , 0.000352454
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2014, 0, 0, 305.88, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2015, 0.04, 0.06, 305.88, 546, , 0.0004167535
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2016, 0, 0, 243.93, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2017, 0.03, 0.04, 243.93, 463, , 0.0004463622
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2018, 0, 0, 388.34, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2019, 0.01, 0.02, 388.34, 456, , 6.938662E-05
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2020, 0, 0, 270.89, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2021, 0.01, 0.01, 270.89, 650, , 9.49848E-05
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2022, 0, 0, 287.29, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2023, 0.01, 0, 287.29, 466, , 7.814942E-05
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2024, 0, 0, 339.16, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2025, 0.01, 0, 339.16, 604, , 5.952381E-05
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2026, 0, 0, 322.41, 0, , 0
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2027, 0.01, -0.01, 322.41, 650, , 6.685833E-05
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2028, 6.01, 8.43, 271.48, 0, , 0.04799553
+21, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2029, 0.01, -0.01, 271.48, 650, , 7.985945E-05
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2008, 0, 0, 171.23, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2009, 0.04, 0.06, 171.23, 332, , 0.006097561
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2010, 0, 0, 266.74, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2011, 0.06, 0.1, 266.74, 436, , 0.003107198
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2012, 0, 0, 263.13, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2013, 0.07, 0.11, 263.13, 448, , 0.0009746589
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2014, 0, 0, 369.59, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2015, 0.06, 0.09, 369.59, 315, , 0.0004467943
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2016, 0, 0, 199.48, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2017, 0.05, 0.07, 199.48, 585, , 0.0008268563
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2018, 0, 0, 216.59, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2019, 0.02, 0.03, 216.59, 465, , 0.0002901915
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2020, 0, 0, 289.96, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2021, 0.01, 0.01, 289.96, 650, , 9.267841E-05
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2022, 0, 0, 317.04, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2023, 0.01, 0.01, 317.04, 650, , 7.830853E-05
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2024, 0, 0, 260.33, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2025, 0.01, 0, 260.33, 650, , 8.202773E-05
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2026, 0, 0, 313.16, 0, , 0
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2027, 0.01, -0.01, 313.16, 584, , 6.900835E-05
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2028, 6.01, 8.44, 247.32, 9200, , 0.0638072
+22, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2029, 0.01, -0.01, 247.32, 569, , 0.0001061684
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0, 0, 189.02, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.12, 0.17, 189.02, 555, , 0.004807692
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0, 0, 209.34, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.2, 0.32, 209.34, 327, , 0.005070994
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0, 0, 343.69, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.32, 0.49, 343.69, 414, , 0.003086718
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0, 0, 281.9, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.36, 0.56, 281.9, 418, , 0.003256151
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0, 0, 266.35, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.28, 0.46, 266.35, 300, , 0.002719503
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0, 0, 216, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.28, 0.4, 216, 555, , 0.00601633
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0, 0, 234.18, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.17, 0.26, 234.18, 483, , 0.002185371
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0, 0, 257.47, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.14, 0.19, 257.47, 637, , 0.001709402
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0, 0, 295.38, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.06, 0.09, 295.38, 650, , 0.0004670351
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0, 0, 270.9, 0, , 0
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.04, 0.05, 270.9, 650, , 0.0003827385
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 5.68, 7.96, 275.15, 7500, , 0.05157541
+23, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.01, 0.02, 275.15, 556, , 9.080178E-05
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2008, 0.09, 0.14, 100.6, 365, , 0.004582485
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2009, 0, 0, 100.6, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2010, 0.22, 0.31, 201.76, 650, , 0.002485314
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2011, 0, 0, 201.76, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2012, 0.18, 0.25, 316.49, 650, , 0.0009711357
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2013, 0, 0, 316.49, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2014, 0.16, 0.23, 224.57, 650, , 0.001415053
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2015, 0, 0, 224.57, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2016, 0.12, 0.17, 195.2, 650, , 0.001721911
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2017, 0, 0, 195.2, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2018, 0.08, 0.11, 225.13, 650, , 0.0006435007
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2019, 0, 0, 225.13, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2020, 0.07, 0.1, 152.36, 650, , 0.001291751
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2021, 0, 0, 152.36, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2022, 0.05, 0.07, 192.2, 650, , 0.0004689112
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2023, 0, 0, 192.2, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2024, 0.05, 0.07, 243.23, 650, , 0.0003662467
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2025, 0, 0, 243.23, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2026, 0.06, 0.08, 273.99, 650, , 0.0003469411
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2027, 0, 0, 273.99, 0, , 0
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2028, 0.05, 0.07, 223.29, 650, , 0.0003663272
+24, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2029, 7.61, 10.68, 223.29, 7500, , 0.055755
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2008, 0.04, 0.05, 95.93, 220, , 0.001692047
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2009, 0, 0, 95.93, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2010, 0.02, 0.03, 95.93, 176, , 0.0008460237
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2011, 0.15, 0.22, 95.93, 513, , 0.006345178
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2012, 0.04, 0.05, 95.93, 220, , 0.001692047
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2013, 0.01, 0.03, 95.93, 59, , 0.0004230118
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2014, 0, 0, 153.53, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2015, 0.22, 0.35, 153.53, 358, , 0.003321758
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2016, 0.04, 0.05, 153.53, 220, , 0.0006039559
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2017, 0.04, 0.05, 153.53, 173, , 0.0006039559
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2018, 0.03, 0.05, 153.53, 220, , 0.0004529669
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2019, 0.01, 0.03, 153.53, 55, , 0.000150989
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2020, 0, 0, 300.19, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2021, 0.27, 0.39, 300.19, 650, , 0.001851725
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2022, 0.03, 0.05, 300.19, 220, , 0.0002057472
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2023, 0.03, 0.04, 300.19, 220, , 0.0002057472
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2024, 0.03, 0.05, 300.19, 220, , 0.0002057472
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2025, 0.01, 0.03, 300.19, 68, , 6.858241E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2026, 0, 0, 268.86, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2027, 0.24, 0.38, 268.86, 413, , 0.001838658
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2028, 0.03, 0.04, 268.86, 220, , 0.0002298322
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2029, 0.03, 0.04, 268.86, 143, , 0.0002298322
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2030, 0.03, 0.05, 268.86, 220, , 0.0002298322
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2031, 0.01, 0.03, 268.86, 44, , 7.661074E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2032, 0, 0, 239.48, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2033, 0.27, 0.42, 239.48, 386, , 0.002539265
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2034, 0.03, 0.05, 239.48, 220, , 0.0002821405
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2035, 0.04, 0.05, 239.48, 219, , 0.0003761874
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2036, 0.03, 0.05, 239.48, 220, , 0.0002821405
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2037, 0.01, 0.03, 239.48, 88, , 9.404684E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2038, 0, 0, 284.36, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2039, 0.26, 0.38, 284.36, 504, , 0.001621453
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2040, 0.04, 0.05, 284.36, 220, , 0.0002494543
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2041, 0.03, 0.05, 284.36, 220, , 0.0001870907
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2042, 0.03, 0.05, 284.36, 220, , 0.0001870907
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2043, 0.01, 0.03, 284.36, 74, , 6.236358E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2044, 0, 0, 214.77, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2045, 0.24, 0.37, 214.77, 440, , 0.002403846
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2046, 0.03, 0.05, 214.77, 220, , 0.0003004808
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2047, 0.04, 0.05, 214.77, 220, , 0.000400641
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2048, 0.03, 0.05, 214.77, 220, , 0.0003004808
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2049, 0.01, 0.03, 214.77, 93, , 0.0001001603
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2050, 0, 0, 227.81, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2051, 0.18, 0.26, 227.81, 650, , 0.001319745
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2052, 0.03, 0.05, 227.81, 220, , 0.0002199575
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2053, 0.02, 0.03, 227.81, 220, , 0.0001466383
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2054, 0.03, 0.05, 227.81, 220, , 0.0002199575
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2055, 0.01, 0.03, 227.81, 103, , 7.331916E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2056, 0, 0, 256.36, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2057, 0.18, 0.26, 256.36, 647, , 0.001269215
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2058, 0.04, 0.05, 256.36, 220, , 0.0002820477
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2059, 0.04, 0.05, 256.36, 220, , 0.0002820477
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2060, 0.03, 0.05, 256.36, 220, , 0.0002115357
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2061, 0.01, 0.03, 256.36, 100, , 7.051192E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2062, 0, 0, 231.55, 0, , 0
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2063, 0.12, 0.2, 231.55, 166, , 0.0009321836
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2064, 0.03, 0.05, 231.55, 220, , 0.0002330459
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2065, 0.03, 0.05, 231.55, 93, , 0.0002330459
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2066, 0.03, 0.05, 231.55, 220, , 0.0002330459
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2067, 0.01, 0.03, 231.55, 52, , 7.768197E-05
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2068, 7.63, 10.71, 228.18, 7500, , 0.05702115
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2069, 0.22, 0.31, 228.18, 650, , 0.001644122
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2070, 0.03, 0.04, 228.18, 220, , 0.0002241985
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2071, 0.03, 0.05, 228.18, 220, , 0.0002241985
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2072, 0.03, 0.05, 228.18, 220, , 0.0002241985
+2, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2073, 0.01, 0.03, 228.18, 90, , 7.473283E-05
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2008, 0.03, 0.04, 250.93, 200, , 0.00375
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2009, 0.05, 0.07, 250.93, 565, , 0.00625
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2010, 0, 0, 250.93, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2011, 0.02, 0.03, 250.93, 220, , 0.0025
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2012, 0.03, 0.05, 250.93, 200, , 0.00375
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2013, 0.01, 0.02, 250.93, 62, , 0.00125
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2014, 0.05, 0.07, 223.46, 650, , 0.001396648
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2015, 0, 0, 223.46, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2016, 0.03, 0.05, 223.46, 200, , 0.0008379888
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2017, 0.03, 0.04, 223.46, 220, , 0.0008379888
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2018, 0.03, 0.05, 223.46, 200, , 0.0008379888
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2019, 0.01, 0.02, 223.46, 117, , 0.0002793296
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2020, 0.04, 0.06, 268.31, 437, , 0.0003544842
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2021, 0, 0, 268.31, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2022, 0.03, 0.05, 268.31, 200, , 0.0002658632
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2023, 0.02, 0.02, 268.31, 138, , 0.0001772421
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2024, 0.03, 0.05, 268.31, 200, , 0.0002658632
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2025, 0.01, 0.03, 268.31, 123, , 8.862105E-05
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2026, 0.04, 0.06, 303.09, 546, , 0.0004349244
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2027, 0, 0, 303.09, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2028, 0.03, 0.05, 303.09, 200, , 0.0003261933
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2029, 0.02, 0.03, 303.09, 176, , 0.0002174622
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2030, 0.03, 0.05, 303.09, 200, , 0.0003261933
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2031, 0.01, 0.02, 303.09, 95, , 0.0001087311
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2032, 0.04, 0.07, 241.25, 463, , 0.0006370441
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2033, 0, 0, 241.25, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2034, 0.03, 0.05, 241.25, 200, , 0.0004777831
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2035, 0.02, 0.05, 241.25, 81, , 0.0003185221
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2036, 0.03, 0.05, 241.25, 200, , 0.0004777831
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2037, 0.01, 0.03, 241.25, 132, , 0.000159261
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2038, 0.04, 0.05, 389.62, 456, , 0.0002784934
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2039, 0, 0, 389.62, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2040, 0.03, 0.05, 389.62, 200, , 0.00020887
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2041, 0.03, 0.05, 389.62, 58, , 0.00020887
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2042, 0.03, 0.05, 389.62, 200, , 0.00020887
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2043, 0.01, 0.03, 389.62, 79, , 6.962334E-05
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2044, 0.04, 0.06, 267.59, 650, , 0.0003987241
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2045, 0, 0, 267.59, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2046, 0.03, 0.05, 267.59, 200, , 0.0002990431
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2047, 0.03, 0.04, 267.59, 220, , 0.0002990431
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2048, 0.03, 0.05, 267.59, 200, , 0.0002990431
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2049, 0.02, 0.03, 267.59, 155, , 0.000199362
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2050, 0.02, 0.03, 278.02, 466, , 0.0001710864
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2051, 0, 0, 278.02, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2052, 0.03, 0.05, 278.02, 200, , 0.0002566296
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2053, 0.02, 0.02, 278.02, 206, , 0.0001710864
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2054, 0.03, 0.05, 278.02, 200, , 0.0002566296
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2055, 0.01, 0.02, 278.02, 50, , 8.55432E-05
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2056, 0.04, 0.05, 330.85, 604, , 0.000256
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2057, 0, 0, 330.85, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2058, 0.03, 0.05, 330.85, 200, , 0.000192
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2059, 0.03, 0.04, 330.85, 143, , 0.000192
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2060, 0.03, 0.05, 330.85, 200, , 0.000192
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2061, 0.02, 0.03, 330.85, 161, , 0.000128
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2062, 0.03, 0.04, 308.78, 650, , 0.0002260227
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2063, 0, 0, 308.78, 0, , 0
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2064, 0.03, 0.05, 308.78, 200, , 0.0002260227
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2065, 0.02, 0.02, 308.78, 220, , 0.0001506818
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2066, 0.03, 0.05, 308.78, 200, , 0.0002260227
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2067, 0.01, 0.03, 308.78, 113, , 7.534092E-05
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2068, 0.02, 0.03, 264.48, 650, , 0.0001716886
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2069, 5.69, 7.98, 264.48, 0, , 0.0488454
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2070, 0.03, 0.05, 264.48, 200, , 0.0002575328
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2071, 0.03, 0.04, 264.48, 220, , 0.0002575328
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2072, 0.03, 0.05, 264.48, 200, , 0.0002575328
+3, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2073, 0.02, 0.04, 264.48, 175, , 0.0001716886
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2008, 0.03, 0.04, 172.35, 200, , 0.004470939
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2009, 0.02, 0.03, 172.35, 99, , 0.002980626
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2010, 0.04, 0.06, 172.35, 332, , 0.005961252
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2011, 0, 0, 172.35, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2012, 0.03, 0.05, 172.35, 200, , 0.004470939
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2013, 0.01, 0.02, 172.35, 94, , 0.001490313
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2014, 0.06, 0.1, 267.8, 436, , 0.003089598
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2015, 0, 0, 267.8, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2016, 0.03, 0.04, 267.8, 200, , 0.001544799
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2017, 0.01, 0.02, 267.8, 138, , 0.0005149331
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2018, 0.03, 0.05, 267.8, 200, , 0.001544799
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2019, 0.01, 0.02, 267.8, 56, , 0.0005149331
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2020, 0.07, 0.11, 260.66, 448, , 0.0009724924
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2021, 0, 0, 260.66, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2022, 0.03, 0.04, 260.66, 200, , 0.0004167825
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2023, 0.01, 0.02, 260.66, 119, , 0.0001389275
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2024, 0.03, 0.05, 260.66, 200, , 0.0004167825
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2025, 0.01, 0.02, 260.66, 103, , 0.0001389275
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2026, 0.06, 0.09, 364.99, 315, , 0.0004463954
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2027, 0, 0, 364.99, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2028, 0.03, 0.04, 364.99, 182, , 0.0002231977
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2029, 0.01, 0.03, 364.99, 74, , 7.439923E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2030, 0.03, 0.05, 364.99, 200, , 0.0002231977
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2031, 0.01, 0.02, 364.99, 53, , 7.439923E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2032, 0.07, 0.1, 199.01, 585, , 0.00116144
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2033, 0, 0, 199.01, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2034, 0.03, 0.04, 199.01, 200, , 0.0004977601
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2035, 0.02, 0.03, 199.01, 220, , 0.00033184
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2036, 0.03, 0.05, 199.01, 200, , 0.0004977601
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2037, 0.01, 0.02, 199.01, 107, , 0.00016592
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2038, 0.06, 0.09, 214.59, 445, , 0.0008956561
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2039, 0, 0, 214.59, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2040, 0.03, 0.05, 214.59, 200, , 0.000447828
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2041, 0.02, 0.02, 214.59, 199, , 0.000298552
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2042, 0.03, 0.05, 214.59, 200, , 0.000447828
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2043, 0.01, 0.02, 214.59, 50, , 0.000149276
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2044, 0.07, 0.1, 288.52, 650, , 0.0006591958
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2045, 0, 0, 288.52, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2046, 0.03, 0.05, 288.52, 200, , 0.0002825125
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2047, 0.01, 0.02, 288.52, 220, , 9.417083E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2048, 0.03, 0.05, 288.52, 200, , 0.0002825125
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2049, 0.01, 0.02, 288.52, 117, , 9.417083E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2050, 0.07, 0.1, 315.71, 650, , 0.0005640612
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2051, 0, 0, 315.71, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2052, 0.03, 0.05, 315.71, 200, , 0.0002417405
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2053, 0.02, 0.02, 315.71, 220, , 0.0001611604
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2054, 0.03, 0.05, 315.71, 200, , 0.0002417405
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2055, 0.01, 0.03, 315.71, 70, , 8.058018E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2056, 0.07, 0.1, 257.87, 650, , 0.0005785124
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2057, 0, 0, 257.87, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2058, 0.03, 0.05, 257.87, 200, , 0.0002479339
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2059, 0.02, 0.03, 257.87, 220, , 0.0001652893
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2060, 0.03, 0.05, 257.87, 200, , 0.0002479339
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2061, 0.01, 0.02, 257.87, 130, , 8.264463E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2062, 0.05, 0.07, 304.8, 584, , 0.0003670802
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2063, 0, 0, 304.8, 0, , 0
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2064, 0.03, 0.04, 304.8, 200, , 0.0002202481
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2065, 0.03, 0.04, 304.8, 203, , 0.0002202481
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2066, 0.03, 0.05, 304.8, 200, , 0.0002202481
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2067, 0.01, 0.02, 304.8, 101, , 7.341605E-05
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2068, 0.06, 0.09, 246.1, 569, , 0.0006734763
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2069, 5.84, 8.2, 246.1, 9200, , 0.06555169
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2070, 0.03, 0.04, 246.1, 200, , 0.0003367381
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2071, 0.02, 0.02, 246.1, 205, , 0.0002244921
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2072, 0.03, 0.05, 246.1, 200, , 0.0003367381
+4, -116.8851, 41.5476, 477231, 2804, Bartome, Bartome-Chiara association, ASHY-VFSL, 1, 7, s, 0, 400, 600, 800, 24573308, 2073, 0.01, 0.03, 246.1, 74, , 0.000112246
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0.03, 0.05, 196.57, 220, , 0.001203852
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.12, 0.17, 196.57, 552, , 0.004815409
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.02, 0.03, 196.57, 220, , 0.0008025682
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0, 0, 196.57, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0.03, 0.05, 196.57, 220, , 0.001203852
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.01, 0.02, 196.57, 68, , 0.0004012841
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0.2, 0.32, 215.04, 327, , 0.004940711
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0, 0, 215.04, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0.03, 0.04, 215.04, 208, , 0.0007411067
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.02, 0.03, 215.04, 91, , 0.0004940712
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.03, 0.05, 215.04, 220, , 0.0007411067
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.02, 215.04, 117, , 0.0002470356
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0.32, 0.49, 352.54, 414, , 0.00301716
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0, 0, 352.54, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.03, 0.04, 352.54, 220, , 0.0002828588
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.01, 0.02, 352.54, 115, , 9.428625E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0.03, 0.05, 352.54, 220, , 0.0002828588
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.01, 0.03, 352.54, 63, , 9.428625E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0.37, 0.57, 278.55, 418, , 0.003639941
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0, 0, 278.55, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0.03, 0.05, 278.55, 220, , 0.0002951304
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.01, 0.02, 278.55, 87, , 9.837678E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.03, 0.05, 278.55, 220, , 0.0002951304
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.02, 278.55, 109, , 9.837678E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0.31, 0.51, 266.84, 300, , 0.002989392
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0, 0, 266.84, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.03, 0.04, 266.84, 162, , 0.000289296
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.03, 0.05, 266.84, 67, , 0.000289296
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0.03, 0.05, 266.84, 220, , 0.000289296
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.01, 0.03, 266.84, 66, , 9.643201E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0.38, 0.56, 217.6, 555, , 0.008144021
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0, 0, 217.6, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0.03, 0.04, 217.6, 220, , 0.000642949
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.03, 0.04, 217.6, 191, , 0.000642949
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.03, 0.05, 217.6, 220, , 0.000642949
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.02, 217.6, 99, , 0.0002143163
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0.32, 0.48, 231.04, 483, , 0.004355519
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0, 0, 231.04, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.03, 0.05, 231.04, 220, , 0.0004083299
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.02, 0.02, 231.04, 202, , 0.0002722199
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 0.03, 0.05, 231.04, 220, , 0.0004083299
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.01, 0.02, 231.04, 70, , 0.00013611
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0.37, 0.53, 255.8, 637, , 0.004718786
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0, 0, 255.8, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2052, 0.03, 0.05, 255.8, 220, , 0.0003826043
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2053, 0.02, 0.02, 255.8, 194, , 0.0002550695
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2054, 0.03, 0.05, 255.8, 220, , 0.0003826043
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2055, 0.01, 0.02, 255.8, 109, , 0.0001275348
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2056, 0.38, 0.54, 304.49, 650, , 0.002873129
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2057, 0, 0, 304.49, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2058, 0.03, 0.05, 304.49, 220, , 0.000226826
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2059, 0.01, 0.02, 304.49, 202, , 7.560865E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2060, 0.03, 0.05, 304.49, 220, , 0.000226826
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2061, 0.01, 0.03, 304.49, 87, , 7.560865E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2062, 0.36, 0.51, 271.85, 650, , 0.003527337
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2063, 0, 0, 271.85, 0, , 0
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2064, 0.03, 0.05, 271.85, 220, , 0.0002939447
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2065, 0.02, 0.02, 271.85, 220, , 0.0001959632
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2066, 0.03, 0.05, 271.85, 220, , 0.0002939447
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2067, 0.01, 0.02, 271.85, 126, , 9.798158E-05
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2068, 0.23, 0.33, 283.9, 556, , 0.002042629
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2069, 5.31, 7.45, 283.9, 7500, , 0.04715808
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2070, 0.03, 0.04, 283.9, 220, , 0.0002664299
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2071, 0.02, 0.03, 283.9, 179, , 0.0001776199
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2072, 0.03, 0.05, 283.9, 220, , 0.0002664299
+5, -119.4909, 42.7172, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2073, 0.01, 0.02, 283.9, 104, , 8.880995E-05
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2008, 0.11, 0.16, 114.28, 220, , 0.003455859
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2009, 0, 0, 114.28, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2010, 0.12, 0.16, 114.28, 650, , 0.003770028
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2011, 0.03, 0.04, 114.28, 220, , 0.0009425071
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2012, 0.14, 0.19, 114.28, 220, , 0.004398366
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2013, 0.02, 0.04, 114.28, 132, , 0.000628338
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2014, 0, 0, 209.02, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2015, 0.2, 0.28, 209.02, 650, , 0.002060369
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2016, 0.08, 0.12, 209.02, 220, , 0.0008241475
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2017, 0.03, 0.05, 209.02, 220, , 0.0003090553
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2018, 0.03, 0.05, 209.02, 220, , 0.0003090553
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2019, 0.01, 0.03, 209.02, 92, , 0.0001030184
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2020, 0, 0, 310.61, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2021, 0.17, 0.24, 310.61, 650, , 0.0009257242
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2022, 0.03, 0.05, 310.61, 220, , 0.0001633631
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2023, 0.03, 0.04, 310.61, 220, , 0.0001633631
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2024, 0.03, 0.05, 310.61, 220, , 0.0001633631
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2025, 0.01, 0.03, 310.61, 121, , 5.445437E-05
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2026, 0, 0, 219.84, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2027, 0.18, 0.26, 219.84, 650, , 0.001606282
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2028, 0.03, 0.04, 219.84, 220, , 0.0002677137
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2029, 0.02, 0.03, 219.84, 220, , 0.0001784758
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2030, 0.03, 0.05, 219.84, 220, , 0.0002677137
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2031, 0.01, 0.02, 219.84, 85, , 8.923791E-05
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2032, 0, 0, 193.74, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2033, 0.18, 0.26, 193.74, 650, , 0.002556092
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2034, 0.03, 0.05, 193.74, 220, , 0.0004260154
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2035, 0.03, 0.03, 193.74, 220, , 0.0004260154
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2036, 0.03, 0.05, 193.74, 220, , 0.0004260154
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2037, 0.03, 0.04, 193.74, 165, , 0.0004260154
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2038, 0, 0, 224.14, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2039, 0.11, 0.16, 224.14, 650, , 0.0008801408
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2040, 0.03, 0.05, 224.14, 220, , 0.0002400384
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2041, 0.03, 0.04, 224.14, 220, , 0.0002400384
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2042, 0.03, 0.05, 224.14, 220, , 0.0002400384
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2043, 0.01, 0.02, 224.14, 129, , 8.00128E-05
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2044, 0, 0, 151.22, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2045, 0.15, 0.21, 151.22, 650, , 0.002752799
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2046, 0.03, 0.05, 151.22, 220, , 0.0005505597
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2047, 0.03, 0.04, 151.22, 220, , 0.0005505597
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2048, 0.03, 0.05, 151.22, 220, , 0.0005505597
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2049, 0.02, 0.04, 151.22, 172, , 0.0003670398
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2050, 0, 0, 191.42, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2051, 0.08, 0.11, 191.42, 650, , 0.0007472445
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2052, 0.03, 0.05, 191.42, 220, , 0.0002802167
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2053, 0.03, 0.04, 191.42, 220, , 0.0002802167
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2054, 0.03, 0.05, 191.42, 220, , 0.0002802167
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2055, 0.03, 0.04, 191.42, 175, , 0.0002802167
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2056, 0, 0, 242.13, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2057, 0.11, 0.15, 242.13, 650, , 0.0008019831
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2058, 0.03, 0.05, 242.13, 220, , 0.0002187227
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2059, 0.04, 0.05, 242.13, 220, , 0.0002916302
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2060, 0.03, 0.05, 242.13, 220, , 0.0002187227
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2061, 0.03, 0.04, 242.13, 186, , 0.0002187227
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2062, 0, 0, 274.86, 0, , 0
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2063, 0.15, 0.23, 274.86, 497, , 0.0008632597
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2064, 0.06, 0.08, 274.86, 220, , 0.0003453039
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2065, 0.04, 0.05, 274.86, 220, , 0.0002302026
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2066, 0.03, 0.05, 274.86, 220, , 0.0001726519
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2067, 0.02, 0.04, 274.86, 120, , 0.0001151013
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2068, 7.47, 10.48, 222.19, 7500, , 0.05460526
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2069, 0.16, 0.22, 222.19, 650, , 0.001169591
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2070, 0.03, 0.05, 222.19, 220, , 0.0002192983
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2071, 0.04, 0.05, 222.19, 220, , 0.0002923977
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2072, 0.03, 0.05, 222.19, 220, , 0.0002192983
+6, -119.3526, 46.7499, 68302, WfB2, Warden, Warden fine sandy loam 2 to 5 percent slopes eroded, FSL, 4, 6, e, 0, 0, 0, 0, 23874641, 2073, 0.02, 0.04, 222.19, 144, , 0.0001461988
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2008, 0.03, 0.05, 172.16, 205, , 0.01960784
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2009, 0.02, 0.03, 172.16, 99, , 0.0130719
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2010, 0.04, 0.06, 172.16, 220, , 0.02614379
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2011, 0.01, 0.02, 172.16, 113, , 0.006535948
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2012, 0.04, 0.05, 262.4, 220, , 0.02580645
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2013, 0.01, 0.02, 262.4, 121, , 0.006451613
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2014, 0.04, 0.06, 262.4, 220, , 0.02580645
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2015, 0.01, 0.02, 262.4, 54, , 0.006451613
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2016, 0.04, 0.06, 192.78, 220, , 0.02209945
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2017, 0.01, 0.02, 192.78, 95, , 0.005524862
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2018, 0.04, 0.06, 192.78, 220, , 0.02209945
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2019, 0.01, 0.02, 192.78, 98, , 0.005524862
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2020, 0.03, 0.04, 186.45, 166, , 0.02654867
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2021, 0.03, 0.05, 186.45, 68, , 0.02654867
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2022, 0.04, 0.06, 186.45, 220, , 0.03539823
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2023, 0.01, 0.03, 186.45, 55, , 0.008849557
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2024, 0.03, 0.05, 197.28, 220, , 0.01754386
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2025, 0.02, 0.03, 197.28, 203, , 0.01169591
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2026, 0.04, 0.06, 197.28, 220, , 0.02339181
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2027, 0.01, 0.02, 197.28, 90, , 0.005847953
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2028, 0.04, 0.06, 185.73, 220, , 0.0195122
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2029, 0.02, 0.02, 185.73, 205, , 0.009756098
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2030, 0.04, 0.06, 185.73, 220, , 0.0195122
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2031, 0.01, 0.02, 185.73, 67, , 0.004878049
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2032, 0.04, 0.05, 216.33, 220, , 0.02197802
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2033, 0.02, 0.02, 216.33, 203, , 0.01098901
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2034, 0.05, 0.06, 216.33, 220, , 0.02747253
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2035, 0.01, 0.02, 216.33, 106, , 0.005494506
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2036, 0.04, 0.06, 204.89, 220, , 0.01834862
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2037, 0.01, 0.02, 204.89, 198, , 0.004587156
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2038, 0.04, 0.06, 204.89, 220, , 0.01834862
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2039, 0.01, 0.03, 204.89, 72, , 0.004587156
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2040, 0.04, 0.06, 202.71, 220, , 0.02564103
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2041, 0.01, 0.02, 202.71, 220, , 0.006410256
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2042, 0.04, 0.06, 202.71, 220, , 0.02564103
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2043, 0.01, 0.02, 202.71, 122, , 0.006410256
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2044, 0.04, 0.05, 200.71, 220, , 0.03149606
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2045, 0.02, 0.03, 200.71, 180, , 0.01574803
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2046, 0.04, 0.06, 200.71, 220, , 0.03149606
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2047, 0.01, 0.02, 200.71, 96, , 0.007874016
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2048, 0.04, 0.05, 177.03, 220, , 0.02439024
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2049, 0.02, 0.03, 177.03, 197, , 0.01219512
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2050, 0.04, 0.06, 177.03, 220, , 0.02439024
+7, -119.4332, 42.7122, 489163, 29C, Brace, Brace-Raz complex 2 to 15 percent slopes, L, 9, 6, e, 0, 300, 500, 700, 23762383, 2051, 0.01, 0.03, 177.03, 64, , 0.006097561
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2008, 0.04, 0.05, 77.91, 220, , 0.02877698
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2009, 0.02, 0.03, 77.91, 175, , 0.01438849
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2010, 0.04, 0.05, 77.91, 220, , 0.02877698
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2011, 0.01, 0.03, 77.91, 59, , 0.007194245
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2012, 0.04, 0.06, 97.02, 220, , 0.02985075
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2013, 0.03, 0.05, 97.02, 204, , 0.02238806
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2014, 0.04, 0.05, 97.02, 220, , 0.02985075
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2015, 0.01, 0.03, 97.02, 55, , 0.007462686
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2016, 0.04, 0.05, 186.87, 220, , 0.03305785
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2017, 0.03, 0.04, 186.87, 220, , 0.02479339
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2018, 0.04, 0.05, 186.87, 220, , 0.03305785
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2019, 0.01, 0.03, 186.87, 68, , 0.008264462
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2020, 0.03, 0.04, 167.4, 220, , 0.03797468
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2021, 0.03, 0.04, 167.4, 143, , 0.03797468
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2022, 0.04, 0.05, 167.4, 220, , 0.05063291
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2023, 0.01, 0.03, 167.4, 44, , 0.01265823
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2024, 0.04, 0.06, 174.63, 220, , 0.02702703
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2025, 0.04, 0.05, 174.63, 220, , 0.02702703
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2026, 0.04, 0.05, 174.63, 220, , 0.02702703
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2027, 0.01, 0.03, 174.63, 88, , 0.006756757
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2028, 0.04, 0.06, 168.35, 220, , 0.02580645
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2029, 0.03, 0.04, 168.35, 220, , 0.01935484
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2030, 0.04, 0.06, 168.35, 220, , 0.02580645
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2031, 0.01, 0.03, 168.35, 74, , 0.006451613
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2032, 0.04, 0.06, 154.37, 220, , 0.02797203
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2033, 0.03, 0.05, 154.37, 220, , 0.02097902
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2034, 0.04, 0.05, 154.37, 220, , 0.02797203
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2035, 0.01, 0.03, 154.37, 93, , 0.006993007
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2036, 0.04, 0.05, 128, 220, , 0.03030303
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2037, 0.02, 0.03, 128, 220, , 0.01515152
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2038, 0.04, 0.05, 128, 220, , 0.03030303
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2039, 0.01, 0.03, 128, 103, , 0.007575758
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2040, 0.04, 0.05, 156.7, 220, , 0.04347826
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2041, 0.04, 0.05, 156.7, 220, , 0.04347826
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2042, 0.04, 0.05, 156.7, 220, , 0.04347826
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2043, 0.01, 0.03, 156.7, 100, , 0.01086957
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2044, 0.04, 0.05, 132.37, 220, , 0.03389831
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2045, 0.04, 0.05, 132.37, 192, , 0.03389831
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2046, 0.04, 0.05, 132.37, 220, , 0.03389831
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2047, 0.01, 0.03, 132.37, 52, , 0.008474576
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2048, 0.03, 0.05, 132.21, 220, , 0.02752294
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2049, 0.03, 0.05, 132.21, 220, , 0.02752294
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2050, 0.04, 0.05, 132.21, 220, , 0.03669725
+8, -119.6813, 47.6175, 699619, 119, DelRio, DelRio ashy fine sandy loam 0 to 8 percent slopes, ASHY-FSL, 4, 3, e, 0, 600, 750, 900, 23887061, 2051, 0.01, 0.03, 132.21, 90, , 0.009174312
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2008, 0.03, 0.04, 245.68, 200, , 0.06521739
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2009, 0.02, 0.03, 245.68, 220, , 0.04347826
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2010, 0.03, 0.05, 245.68, 200, , 0.06521739
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2011, 0.01, 0.02, 245.68, 62, , 0.02173913
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2012, 0.03, 0.05, 195.96, 200, , 0.05454545
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2013, 0.03, 0.05, 195.96, 220, , 0.05454545
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2014, 0.03, 0.05, 195.96, 200, , 0.05454545
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2015, 0.01, 0.02, 195.96, 117, , 0.01818182
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2016, 0.03, 0.05, 176.48, 200, , 0.05454545
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2017, 0.01, 0.02, 176.48, 130, , 0.01818182
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2018, 0.03, 0.05, 176.48, 200, , 0.05454545
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2019, 0.01, 0.03, 176.48, 123, , 0.01818182
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2020, 0.03, 0.05, 258.11, 200, , 0.05882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2021, 0.01, 0.02, 258.11, 216, , 0.01960784
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2022, 0.03, 0.05, 258.11, 200, , 0.05882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2023, 0.01, 0.02, 258.11, 95, , 0.01960784
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2024, 0.03, 0.05, 217.75, 200, , 0.05769231
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2025, 0.01, 0.02, 217.75, 138, , 0.01923077
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2026, 0.03, 0.05, 217.75, 200, , 0.05769231
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2027, 0.01, 0.03, 217.75, 132, , 0.01923077
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2028, 0.03, 0.05, 304.33, 200, , 0.0882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2029, 0.01, 0.02, 304.33, 122, , 0.02941176
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2030, 0.03, 0.05, 304.33, 200, , 0.0882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2031, 0.01, 0.03, 304.33, 79, , 0.02941176
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2032, 0.03, 0.05, 215.24, 200, , 0.05555556
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2033, 0.03, 0.04, 215.24, 220, , 0.05555556
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2034, 0.04, 0.05, 215.24, 200, , 0.07407407
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2035, 0.02, 0.03, 215.24, 155, , 0.03703704
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2036, 0.03, 0.05, 209.35, 200, , 0.0483871
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2037, 0.02, 0.02, 209.35, 202, , 0.03225806
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2038, 0.03, 0.05, 209.35, 200, , 0.0483871
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2039, 0.01, 0.02, 209.35, 50, , 0.01612903
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2040, 0.03, 0.05, 235.9, 200, , 0.04615385
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2041, 0.01, 0.02, 235.9, 197, , 0.01538462
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2042, 0.03, 0.05, 235.9, 200, , 0.04615385
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2043, 0.02, 0.03, 235.9, 161, , 0.03076923
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2044, 0.03, 0.05, 236.42, 200, , 0.04166667
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2045, 0.02, 0.02, 236.42, 220, , 0.02777778
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2046, 0.03, 0.05, 236.42, 200, , 0.04166667
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2047, 0.01, 0.03, 236.42, 113, , 0.01388889
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2048, 0.04, 0.05, 190.86, 200, , 0.05882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2049, 0.03, 0.04, 190.86, 220, , 0.04411765
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2050, 0.04, 0.05, 190.86, 200, , 0.05882353
+9, -112.4604, 40.1991, 482128, 24, Hiko Peak, Hiko Peak-Taylorsflat complex 1 to 15 percent slopes, GR-L, 9, 6, s, 0, 500, 800, 1000, 24520209, 2051, 0.02, 0.04, 190.86, 175, , 0.02941176
