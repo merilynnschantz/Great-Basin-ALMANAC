@@ -1,0 +1,1490 @@
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+ FDATA    ALNC_Run.dat                                                                    
+ FCROP    cropALNC.dat                                                                    
+ FTILL    tillALNC.DAT                                                                    
+ FSUMA    SUMA.DAT                                                                        
+ FSUMB    SUMB.DAT                                                                        
+ FPARM    parm2014.DAT                                                                    
+ FPRNT    prnt2014.dat                                                                    
+ FOUT     ALNC_Run.out                                                                    
+ FMLRN    mlrn2014.dat                                                                    
+
+
+ ____________________GENERAL INFORMATION_____________________
+
+
+ -----VARIABLE NAMES
+   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18   19   20
+  TMX  TMN  RAD RAIN SNOW    Q  SSF  PRK   ET   EP   SW WTBL   EI MUSL    C   YW  YON YNO3 SSFN PRKN
+  MNN  IMN   DN NFIX UNO3  HMN TNO3   YP  YAP  UPP  MNP  IMP  HU1 LAI1   RD  RW1 BIOM  RSD  STD  TMP
+ IRGA  PET RHUM  RW2  VPD  EVN  HU2 LAI2 PLAB  DM2  WVL  BDP  PEP   FN   FP   CN   QP LIME HRLT     
+   NS   PS    X   AS    X    X ALPH WENG DAYQ  QIN STMX STMN    X DAYP STRS    X    X    X    X COST
+ RTRN
+
+
+
+ -----GENERATOR SEEDS AFTER  0 CYCLES
+           748932582     1985072130     1631331038       67377721      366304404     1094585182     1767585417     1980520317
+                   1              2              3              4              5              6              7              8
+
+
+
+
+ -----MISCELLANEOUS PARAMETERS
+
+         PARM     SCRP1I    SCRP2I    SCRP1C       SCRP2C
+    1     3.000    50.050    90.950  0.13483E+02  0.13253E+00
+    2     1.500    10.500   100.950  0.23739E+01  0.71310E-02
+    3     1.000    50.100    95.950  0.11109E+02  0.99995E-01
+    4     0.000    50.567   100.837  0.43192E+01  0.13514E-01
+    5     0.200    10.250    30.950  0.48734E+01  0.14722E+00
+    6     0.000    10.050    50.900  0.61301E+01  0.88306E-01
+    7     0.500     5.750    10.990  0.33142E+01  0.56067E+00
+    8     1.500    20.500    80.950  0.35151E+01  0.25968E-01
+    9     0.001     0.000     0.000  0.00000E+00  0.00000E+00
+   10     0.000     0.000     0.000  0.00000E+00  0.00000E+00
+   11     0.010     0.000     0.000  0.00000E+00  0.00000E+00
+   12    10.000     0.000     0.000  0.00000E+00  0.00000E+00
+   13     0.600     0.000     0.000  0.00000E+00  0.00000E+00
+   14     1.000    50.000   100.000  0.50000E+02  0.10000E+03
+   15     0.003
+   16     2.500
+   17     2.000
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________GENERAL INFORMATION_____________________
+
+         SIMULATION DURATION =   11 Y
+         BEGINNING DATE = 1- 1-**
+         DRAINAGE AREA =   1.0 HA
+         LATITUDE = 46.75 DEG
+         ELEVATION =   362.7 M
+         CHANNEL
+              LENGTH =   0.10 KM     SLOPE = 0.0050 M/M     MANNINGS N = 0.050
+         LAND SLOPE
+              LENGTH =  122.0 M     STEEPNESS = 0.0400 M/M     MANNINGS N  = 0.050
+         WATER EROSION FACTORS--DRIVING EQ = MUSL
+              LS =  0.697     P =  1.000
+         TIME OF FLOW CONCENTRATION =  0.52 H
+         RUNOFF CN2 = 78.0
+         SLOPE ADJ CN2 = 77.4
+         PEAK RATE-EI ADJ FACTOR = 1.000
+         INITIAL WATER CONTENT OF SNOW =   0.0 MM
+         CULTIVATION PERIOD BEFORE SIMULATION =  50.0 Y
+         AVE N CONC IN RAINFALL = 0.80 G/T
+         COSTS
+              N FERT = 0.51 $/KG
+              P FERT = 0.57 $/KG
+              LIME = 31.00 $/T
+              IRR WATER = 0.04 $/MM
+              PESTICIDE = 10.00 $/HA
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________WEATHER DATA_______________________
+
+         TP-40 10 YR FREQ RAINFALL   0.5 H DUR =  22. MM6.0 H DUR =  66. MM
+         PERIOD OF RECORD FOR P5MX =  8. Y
+
+         **********RAIN, RHUM,  WVL,  RAD,  TMP, ARE INPUT**********
+
+         **********PENMAN-MONTEITH  EQ USED TO EST POT ET**********
+
+         RAINFALL DIST IS SKEWED NORMAL
+
+         VERNILIZATION TIME =  146. D
+         CO2 CONC IN ATMOSPHERE =   380. PPM
+
+ -----AVE MO VALUES
+                                                             11
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     2.43     7.11    12.58    17.03    21.90    26.02    30.10    29.59    24.87    17.61     8.19     2.92    18.07   TMX
+  TMN    -5.26    -2.25    -0.12     2.36     6.29     9.97    12.26    12.05     7.78     2.75    -0.93    -4.38     3.38   TMN
+ STMX     5.82     5.47     4.29     4.46     5.04     5.12     4.92     4.51     4.90     4.89     5.06     5.47           STMX
+ STMN     6.17     4.83     3.52     3.72     3.64     3.57     3.43     3.24     3.61     3.99     4.66     5.46           STMN
+ RAIN     24.4     22.2     21.0     15.8     18.2     14.2      8.2      7.1      8.7     14.6     29.9     32.1    216.4  RAIN
+ SDRF      4.0      3.8      3.7      3.6      4.8      3.7      5.4      4.3      3.8      4.0      4.0      4.0           SDRF
+ SKCF     2.32     1.64     1.97     1.74     3.16     1.78     2.96     2.61     1.55     2.16     1.95     1.37           SKCF
+ PW/D    0.144    0.134    0.129    0.111    0.095    0.100    0.048    0.044    0.060    0.088    0.185    0.171           PW/D
+ PW/W    0.269    0.320    0.288    0.171    0.282    0.179    0.167    0.203    0.120    0.271    0.292    0.296           PW/W
+ DAYP     5.10     4.77     4.76     3.54     3.62     3.26     1.69     1.62     1.91     3.34     6.22     6.06    45.89  DAYP
+ P5MX      4.6      3.6      3.6      3.3      6.3      5.1      8.9      9.7      6.6      4.1      3.6      5.1           P5MX
+  RAD       4.       8.      12.      19.      22.      25.      27.      22.      16.       9.       5.       3.      14.   RAD
+  RAD       8.      11.      16.      23.      29.      33.      33.      30.      25.      18.      12.       8.      14.   RAD
+ HRLT     8.50     9.47    10.97    12.75    14.38    15.59    15.76    14.81    13.21    11.48     9.80     8.66           HRLT
+ RHUM     0.72     0.69     0.60     0.53     0.50     0.46     0.39     0.42     0.48     0.66     0.80     0.85           RHUM
+ ALPH     0.19     0.18     0.17     0.22     0.21     0.32     0.39     0.45     0.35     0.24     0.18     0.17           ALPH
+  WVL     3.11     3.34     4.01     4.19     3.95     3.96     3.70     3.45     3.50     3.25     3.04     3.04     3.55   WVL
+ WENG       0.      47.       0.      32.       0.      30.      26.       0.       0.       0.       0.       0.     136.  WENG
+
+
+ -----WIND EROSION DATA
+         CF =  33.
+         FIELD LENGTH =   0.00 KM
+         FIELD WIDTH =   0.00 KM
+         FIELD ANGLE =   0. DEG
+         WIND SPEED MOD EXP POWER PARM = 0.50
+         ACCELERATED WIND EROSION FACTOR =   0.000
+   0.002
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________SOIL DATA____________________
+
+         SOIL ALBEDO = 0.30
+         MAX NUMBER SOIL LAYERS = 10.
+         MIN THICKNESS FOR LAYER SPLITTING = 0.10 M
+         MIN PROFILE THICKNESS--STOPS SIMULATION = 0.10 M
+         MIN WATER TABLE DEPTH  =  50.00 M
+         MAX WATER TABLE DEPTH = 100.00 M
+         INITIAL WATER TABLE DEPTH =  75.00 M
+         SOIL WEATHERING CODE =  0.
+                                                   SOIL LAYER NO
+                        1       2       3       3       3       3       4       4       4       4     TOT
+    DEPTH(M)           0.01    0.15    0.23    0.31    0.40    0.48    0.61    0.74    1.00    1.52
+    POROSITY(M/M)     0.517   0.517   0.479   0.479   0.479   0.479   0.460   0.460   0.460   0.460   0.470
+    FC SW(M/M)        0.156   0.156   0.171   0.171   0.171   0.171   0.223   0.223   0.223   0.223   0.205
+    WP SW(M/M)        0.061   0.061   0.075   0.075   0.075   0.075   0.068   0.068   0.068   0.068   0.069
+    SW(M/M)           0.132   0.132   0.147   0.147   0.147   0.147   0.184   0.184   0.184   0.184   0.171
+    SAT COND(MM/H)    32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40 
+    SSF TIME(D)         11.E    11.E    13.E    13.E    13.     13.     17.     17.     17.     17. 
+    BD 33KPA(T/M3)     1.28    1.28    1.38    1.38    1.38    1.38    1.43    1.43    1.43    1.43
+    BDD OV DRY(T/M3)   1.34    1.34    1.44    1.44    1.44    1.44    1.50    1.50    1.50    1.50 
+    SAND(%)            65.2    65.2    60.7    60.7    60.7    60.7    20.8    20.8    20.8    20.8
+    SILT(%)            27.3    27.3    27.8    27.8    27.8    27.8    67.7    67.7    67.7    67.7
+    CLAY(%)             7.5     7.5    11.5    11.5    11.5    11.5    11.5    11.5    11.5    11.5
+    ROCK(%)             0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+    PH                  7.6     7.6     8.2     8.2     8.2     8.2     8.5     8.5     8.5     8.5
+    SM BS(CMOL/KG)      0.0E    0.0E    0.0E    0.0E    0.0     0.0     7.5     7.5     7.5     7.5 
+    CEC(CMOL/KG)        7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5 
+    AL SAT(%)           0.0E    0.0E    0.0E    0.0E    0.0     0.0     0.0     0.0     0.0     0.0 
+    CACO3(%)            0.0     0.0     0.0     0.0     0.0     0.0    20.0    20.0    20.0    20.0
+    LAB P(G/T)          30.E    26.E    19.E    19.E    19.     19.      7.      7.      7.      7.    232.
+    P SORP RTO         0.50E   0.50E   0.50E   0.50E   0.50    0.50    0.46    0.46    0.46    0.46 
+    MN P AC(G/T)        30.E    26.E    19.E    19.E    19.     19.      8.      8.      8.      8.    250.
+    MN P ST(G/T)       119.E   103.E    74.E    74.E    74.     74.     31.     31.     31.     31.   1000.
+    ORG P(G/T)         110.E   110.E    19.E    19.E    19.     19.     19.     19.     19.     19.    575.
+    NO3(G/T)            10.E     9.E     6.E     6.E     6.      6.      2.      2.      2.      2.     77.
+    ORG N AC(G/T)      176.E   176.E    12.E    12.E    12.     12.     12.     12.     12.     12.    571.
+    ORG N ST(G/T)      704.E   704.E   138.E   138.E   138.    138.    138.    138.    138.    138.   4032.
+    ORG C(%)           0.88    0.88    0.15    0.15    0.15    0.15    0.15    0.15    0.15    0.15
+    CROP RSD(T/HA)     1.00E   3.45E   0.08E   0.08E   0.08    0.08    0.00    0.00    0.00    0.00    4.75
+    RWT(T/HA)          0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________MANAGEMENT DATA____________________
+
+         DRYLAND AGRICULTURE
+         USER SPECIFIED FERT
+         LIME APPLIED AS NEEDED
+
+ -----OPERATION SCHEDULE FOR 11 YR ROTATION
+
+         YR 1
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        2  15  17  PLANT DR 17.54  0.25   10.   40.   25.  0.18    0.  0.00   6    0.00  0.00         650.   50    0.0 0.000  15.0
++                                                                                              BSQU
+        2  15  17  PLANT DR 17.54  0.25   10.   40.   25.  0.18    0.  0.00   6    0.00  0.00        7500.   49    0.0 0.000  15.0
++                                                                                              SAGE
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 2
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 3
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 4
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 5
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 6
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 7
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 8
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR 9
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR10
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+
+         YR11
+
+         FERTILIZER APPLIED(KG/HA)
+                     -------MINERAL-------   -------ORGANIC-------
+            MO DAY     N       P     DPTH      N       P    WT(T/HA)
+             4   1     0.0     0.0   100.0     0.0     0.0     0.0
+
+         TILLAGE OPERATIONS 
+               ID           COST    MX    RR    DP   RHT   RIN   DKH   DKI   OP     HV    HV           PHU CRPID  SCS   FR   P POP
+       MO  DA  NO    NAME    ($)    EF   (MM)  (MM)  (MM)  (M)   (MM)  (M)   CD     EF   IDX   CROP    (C)         CN  COMP  (P/M2)
+        5  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   50    0.0 0.000   0.0
++                                                                                              BSQU
+       12  15  48  HARHAY90 25.00  0.00    0. -100.    0.  0.00    0.  0.00   2    0.99  0.90           0.   49    0.0 0.000   0.0
++                                                                                              SAGE
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________CROP PARAMETERS____________________
+
+                BSQU      SAGE
+      WA        18.0      11.5
+      HI        0.01      0.76
+      TB        15.0      30.0
+      TG         0.0      10.0
+      DMLA       0.5       2.0
+      DLAI      0.60      0.90
+      LAP1    31.070    15.050
+      LAP2    57.950    50.800
+      PPL1    10.200     1.100
+      PPL2    30.950    10.990
+      FRS1     5.001     5.001
+      FRS2    15.010    15.002
+      RLAD      1.00      1.00
+      RBMD     10.00      1.00
+      ALT        2.0       5.0
+      CAF       0.85      0.85
+      GSI     0.0070    0.0070
+      WAC2    660.46    660.15
+      CLAIYR       1.0       8.0
+      VPTH       1.0       1.0
+      VPD2     -6.50     -6.50
+      SDW       90.0      80.0
+      HMX       0.50      3.00
+      RDMX      2.00      3.50
+      CVM      0.030     0.001
+      CNY     0.0234    0.0015
+      CPY     0.0033    0.0003
+      WSYF    0.3500    0.0000
+      PST       0.95      0.95
+      TREE1      0.00     10.11
+      TREE2      0.00     25.95
+      BN1     0.0600    0.0060
+      BN2     0.0231    0.0020
+      BN3     0.0134    0.0015
+      BP1     0.0084    0.0007
+      BP2     0.0032    0.0004
+      BP3     0.0019    0.0003
+      BW1      3.390     3.390
+      BW2      3.390     3.390
+      BW3      1.610     3.900
+      IDC          6         7
+      EXT       0.65      0.65
+    DORMNT      0.00      0.00
+    DMPHT    120.00    120.00
+    CHTYR     15.00     15.00
+    rtprt1     0.00     0.00
+    GZPAL     5.00     7.00
+    rtprt2     0.00     0.00
+  TREE1(I),TREE2(I),XZ1,XZ2    0.11    0.95   10.00   25.00
+      DMLA       0.2       2.0
+      PHU       650.     7500.
+  READING WEATHER FROM :
+ WTHOBS.wth                                                                     
+  
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         2  15      BSQU  DPTH = 
+         2  15  PLANT DR  DPTH =   40. MM
+         2  15      SAGE  DPTH = 
+         2  15  PLANT DR  DPTH =   40. MM
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         4  13  SW IN TOP 0.2 M =    7.4 MM
+         4  13  SW IN TOP 0.2 M =    7.4 MM
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0856 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.14 T/HA  RW=  0.04 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2008
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     1.28     8.79    12.00    15.69    24.08    26.47    31.14    29.96    26.21    17.03     9.93     0.15    16.89   TMX
+  TMN    -6.90    -0.73    -0.58     1.06     9.24    10.65    14.08    13.46     9.41     3.74     1.37    -7.44     3.95   TMN
+  RAD     4.66     8.20    13.66    20.33    24.16    27.77    28.23    22.60    17.97    10.92     5.41     3.86    15.65   RAD
+ RAIN    24.30     9.00     9.10     4.20     9.00    11.00     0.80     8.00     1.00     5.30    20.60    30.90   133.20  RAIN
+ SNOW     3.20     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    17.70    20.90  SNOW
+ RHUM     0.81     0.75     0.60     0.54     0.49     0.47     0.40     0.46     0.46     0.54     0.73     0.75     0.58  RHUM
+ UNO3     0.00     0.00     0.00     2.94     2.54     0.00     0.01     0.02     0.03     0.01     0.00     0.00     5.55  UNO3
+  PEP     0.00     0.00     0.00     0.06     8.05     6.25     0.97     1.77     1.98     0.58     0.02     0.00     1.07   PEP
+    Q     0.60     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     2.42     3.03     Q
+  SSF     0.27     0.19     0.02     0.00     0.01     0.03     0.00     0.02     0.00     0.01     0.07     0.06     0.68   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     3.71     9.64    13.89     9.67    16.82    17.23     2.03     9.46     3.53     4.21     6.88     3.54   100.60    ET
+   EP     0.00     0.00     0.00     0.06     8.02     6.25     0.97     1.77     1.98     0.58     0.02     0.00    19.64    EP
+  PET     4.44    18.27    52.77    87.36   130.79   153.74   176.15   137.94    83.93    42.50    11.10     4.80   903.77   PET
+  TMP    -2.43     3.28     6.53     7.53    15.28    17.23    22.92    20.94    17.72    11.42     6.25    -3.08    10.30   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.11     0.11  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.15     0.16   YON
+ YNO3     0.06     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.65     0.71  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.05     0.03     0.01     0.00     0.00     0.01     0.00     0.01     0.00     0.01     0.04     0.02     0.19  SSFN
+  MNN     0.22     7.69     1.68     1.92     8.08    12.07    19.79    12.44     2.73     1.05     0.45     0.13    68.24   MNN
+  IMN     0.31    11.75     1.89     2.07     7.99     9.76    11.68     5.08     0.61     0.19     0.07     0.02    51.42   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.00     0.00     0.00     2.94     2.54     0.00     0.01     0.02     0.03     0.01     0.00     0.00     5.55  UNO3
+  HMN     0.05     0.17     0.29     0.32     1.05     1.35     2.33     2.02     1.33     0.61     0.28     0.09     9.88   HMN
+ SSFN     0.05     0.03     0.01     0.00     0.00     0.01     0.00     0.01     0.00     0.01     0.04     0.02     0.19  SSFN
+   SW     0.11     0.11     0.11     0.11     0.10     0.10     0.10     0.10     0.10     0.10     0.10     0.11             SW
+ TNO3    77.36    73.33    73.19    70.13    67.75    70.14    78.25    85.64    87.73    88.62    89.12    88.66           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     1.00     0.71     0.69     0.67     0.56     0.41     0.19     0.10     0.09     0.09     0.09     0.09            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.28     1.24     1.24     1.24     1.24     1.24     1.24     1.25     1.25     1.25     1.25     1.26            BDP
+ STRS        0        0        0418105500119409500417100500416100500416100500415100500431100500444100500458100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2008
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU     0.00     0.00     0.00   161.05   348.77   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.00     0.00     0.12     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     0.00     0.04     0.04     1.18     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.00     0.02     0.02     0.02     0.04     0.04     0.04     0.04     0.04     0.04     0.04     0.04             RW
+ BIOM     0.00     0.05     0.05     0.05     0.13     0.20     0.20     0.20     0.20     0.20     0.20     0.20           BIOM
+  CHT     0.00     0.00     0.00     0.01     0.42     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.09T/HA  BIOM=  0.14T/HA  IRGA=   0.MM  CAW&TAW= 246.  72.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   365.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=  1.0  N=  1.0  P=  0.0  TEMP= 77.4  AIR=  0.0
+
+   HU     0.00     0.00     0.00    23.65   232.30   489.00   880.00  1243.05  1477.40  1528.70  1529.95  1529.95             HU
+  LAI     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.01     0.01     0.01     0.01     0.01            LAI
+   RD     0.00     0.04     0.04     0.04     0.26     0.55     1.01     1.45     1.52     1.52     1.52     1.52             RD
+   RW     0.00     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02             RW
+ BIOM     0.00     0.04     0.04     0.04     0.04     0.04     0.05     0.05     0.06     0.07     0.07     0.07           BIOM
+  CHT     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 246.  72.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 22.9  N=  0.2  P=  0.0  TEMP=145.5  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.2223 T/HA  AGPM=  0.00 T/HA  STL=  0.02 T/HA  BIOM=  0.31 T/HA  RW=  0.06 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2009
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     2.66     6.36    10.61    17.31    23.81    27.20    33.24    30.94    26.39    14.80     9.43    -0.07    16.89   TMX
+  TMN    -4.30    -2.12    -0.31     3.17     7.70    12.33    15.47    14.38     9.94     3.53    -0.44    -7.20     4.35   TMN
+  RAD     4.99     8.21    13.46    19.24    26.79    30.13    28.49    24.08    17.92    10.22     5.71     4.16    16.12   RAD
+ RAIN    25.40    20.30    32.70    12.20    13.70     8.30     2.30     3.60     5.30    25.20    15.90    23.60   188.50  RAIN
+ SNOW     2.40     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     3.50     5.90  SNOW
+ RHUM     0.78     0.78     0.61     0.53     0.49     0.46     0.40     0.43     0.49     0.59     0.72     0.71     0.58  RHUM
+ UNO3     8.76     0.00     0.00     0.02     0.04     0.19     0.21     0.37     0.34     0.00     0.00     0.00     9.93  UNO3
+  PEP     0.00     0.00     0.14     6.63     7.93    12.62    17.64    23.05    18.57     1.94     0.00     0.00     1.51   PEP
+    Q     9.36     1.04     0.61     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.16    11.16     Q
+  SSF     0.82     0.38     0.45     0.02     0.03     0.02     0.00     0.00     0.01     0.07     0.08     0.26     2.14   SSF
+  PRK     0.00     1.19    10.29     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    11.48   PRK
+   ET     2.78     9.91    24.43    23.85    27.04    20.69    20.16    26.75    23.33    13.58     6.99     2.25   201.76    ET
+   EP     0.00     0.00     0.14     6.63     7.93    12.62    17.64    23.05    18.57     1.94     0.00     0.00    88.52    EP
+  PET     4.12    15.14    52.14    83.94   139.54   166.50   177.62   146.63    92.07    42.22    15.76     3.92   939.60   PET
+  TMP    -2.09     2.40     4.25     9.66    13.47    18.96    22.37    22.05    18.88     8.71     5.21    -2.56    10.11   TMP
+ MUSL     0.47     0.04     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.53  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.63     0.09     0.05     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.77   YON
+ YNO3     0.23     0.05     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.02     0.32  YNO3
+ PRKN     0.00     0.11     0.99     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     1.11  PRKN
+ SSFN     0.17     0.06     0.07     0.01     0.01     0.01     0.00     0.00     0.01     0.03     0.02     0.04     0.41  SSFN
+  MNN     0.08     0.19     0.32     0.81     1.63     2.68     3.60     3.32     2.35     0.56     0.30     0.07    15.90   MNN
+  IMN     0.01     0.02     0.05     0.14     0.29     0.47     0.58     0.49     0.32     0.07     0.03     0.00     2.48   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     8.76     0.00     0.00     0.02     0.04     0.19     0.21     0.37     0.34     0.00     0.00     0.00     9.93  UNO3
+  HMN     0.06     0.13     0.21     0.49     0.94     1.54     2.13     2.02     1.47     0.38     0.21     0.06     9.64   HMN
+ SSFN     0.17     0.06     0.07     0.01     0.01     0.01     0.00     0.00     0.01     0.03     0.02     0.04     0.41  SSFN
+   SW     0.13     0.13     0.13     0.13     0.12     0.11     0.10     0.08     0.07     0.08     0.08     0.10             SW
+ TNO3    79.91    80.02    79.47    80.22    81.61    83.69    86.52    89.00    90.72    91.38    91.76    91.93           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.08     0.08     0.08     0.08     0.08     0.08     0.07     0.06     0.05     0.05     0.05     0.05            RSD
+  STD     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.25     1.26     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27            BDP
+ STRS461100500450100500450100500433100500425100500414100500417100500417100500415100500438100500446100500461100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2009
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU     2.80    64.70   232.85   540.10   378.10   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.02     0.05     0.11     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.08     0.07     0.07     0.07     0.04     0.03     0.03     0.03     0.03     0.03     0.03     0.03             RW
+ BIOM     0.19     0.19     0.20     0.31     0.13     0.15     0.15     0.15     0.15     0.15     0.15     0.15           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.46     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.22T/HA  BIOM=  0.31T/HA  IRGA=   0.MM  CAW&TAW= 358. 202.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=  0.0  N=  0.6  P=  0.0  TEMP=167.3  AIR=  0.0
+
+   HU  1529.95  1529.95  1531.20  1578.35  1759.95  2052.80  2497.75  2890.10  3136.65  3168.55  3168.55  3168.55             HU
+  LAI     0.01     0.01     0.01     0.02     0.02     0.05     0.11     0.17     0.20     0.20     0.20     0.20            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.02     0.02     0.02     0.03     0.03     0.05     0.08     0.14     0.19     0.19     0.19     0.19             RW
+ BIOM     0.07     0.07     0.07     0.07     0.09     0.15     0.24     0.42     0.60     0.61     0.61     0.61           BIOM
+  CHT     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 358. 202.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=  0.0  N=  0.2  P=  0.0  TEMP=260.2  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.1804 T/HA  AGPM=  0.00 T/HA  STL=  0.02 T/HA  BIOM=  0.25 T/HA  RW=  0.05 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2010
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     6.73    10.44    14.97    17.51    20.07    24.74    31.43    29.92    24.29    17.52     6.54     3.05    17.27   TMX
+  TMN     0.46     1.32     1.14     4.15     5.94    10.57    14.00    13.67    10.63     5.66    -1.59    -2.82     5.26   TMN
+  RAD     4.10     8.05    14.92    19.58    23.26    25.13    28.20    23.91    16.33    10.30     5.41     4.14    15.28   RAD
+ RAIN    32.70    19.70    10.50    17.00    31.10    25.10     7.50     2.40    20.50    22.90    22.90    53.00   265.30  RAIN
+ SNOW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     8.80     0.00     8.80  SNOW
+ RHUM     0.79     0.71     0.58     0.53     0.53     0.56     0.40     0.44     0.62     0.65     0.76     0.82     0.62  RHUM
+ UNO3     2.49     0.00     0.00     0.09     0.15     0.40     0.50     0.59     0.32     0.11     0.00     0.00     4.65  UNO3
+  PEP     0.00     0.08     4.14     8.73    18.25    30.44    47.43    44.52    24.16    10.76     0.88     0.00     2.12   PEP
+    Q     0.04     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     2.48     2.52     Q
+  SSF     0.68     0.29     0.02     0.03     0.09     0.09     0.02     0.01     0.05     0.08     0.06     1.16     2.58   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     5.93    10.91    22.85    26.18    38.07    52.44    50.88    47.62    35.95    15.31     8.21     2.13   316.49    ET
+   EP     0.00     0.08     4.14     8.73    18.25    30.44    47.40    44.26    23.64     7.72     0.69     0.00   185.35    EP
+  PET     9.15    18.67    59.35    95.65   117.85   135.93   171.77   143.96    78.92    36.17    12.99     3.17   883.57   PET
+  TMP     2.55     5.19     8.19     9.51    12.14    16.08    21.73    21.88    15.69    12.12     3.79    -0.48    10.70   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.04     0.04  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.13     0.05     0.00     0.01     0.02     0.01     0.01     0.00     0.02     0.02     0.01     0.20     0.48  SSFN
+  MNN     0.20     0.29     0.54     0.69     1.00     1.75     2.92     2.83     1.35     0.92     0.29     0.07    12.84   MNN
+  IMN     0.02     0.03     0.06     0.08     0.11     0.20     0.33     0.30     0.13     0.08     0.02     0.00     1.37   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     2.49     0.00     0.00     0.09     0.15     0.40     0.50     0.59     0.32     0.11     0.00     0.00     4.65  UNO3
+  HMN     0.15     0.21     0.37     0.47     0.67     1.16     1.95     1.92     0.95     0.66     0.21     0.06     8.79   HMN
+ SSFN     0.13     0.05     0.00     0.01     0.02     0.01     0.01     0.00     0.02     0.02     0.01     0.20     0.48  SSFN
+   SW     0.12     0.12     0.11     0.11     0.10     0.09     0.06     0.03     0.02     0.02     0.03     0.06             SW
+ TNO3    89.77    90.14    90.70    91.34    92.31    93.64    95.78    97.74    98.79    99.69   100.05   100.37           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.05     0.05     0.05     0.05     0.05     0.04     0.04     0.03     0.03     0.03     0.03     0.03            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.26     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.28     1.28     1.28            BDP
+ STRS452102500442100500439100500433100500428100500418100500416100500416100500417100500427108500446101500461100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2010
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    86.20   250.90   500.55   650.00   288.15   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.02     0.06     0.00     0.04     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.06     0.05     0.06     0.05     0.02     0.03     0.03     0.03     0.03     0.03     0.03     0.03             RW
+ BIOM     0.15     0.16     0.25     0.25     0.08     0.16     0.16     0.16     0.16     0.16     0.16     0.16           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.22     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.18T/HA  BIOM=  0.25T/HA  IRGA=   0.MM  CAW&TAW= 412. 267.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 11.5  N=  1.1  P=  0.0  TEMP=122.6  AIR=  0.0
+
+   HU  3168.55  3168.55  3173.25  3230.45  3334.25  3563.85  3958.00  4323.55  4547.40  4613.30  4620.25  4620.25             HU
+  LAI     0.20     0.20     0.20     0.20     0.22     0.25     0.31     0.34     0.35     0.36     0.36     0.36            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.19     0.19     0.19     0.21     0.23     0.31     0.40     0.51     0.57     0.59     0.59     0.59             RW
+ BIOM     0.61     0.61     0.61     0.66     0.74     1.00     1.37     1.80     2.04     2.12     2.12     2.12           BIOM
+  CHT     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 412. 267.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=  0.0  N=  0.0  P=  0.0  TEMP=271.9  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.1608 T/HA  AGPM=  0.00 T/HA  STL=  0.02 T/HA  BIOM=  0.23 T/HA  RW=  0.05 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2011
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     4.04     6.86    13.11    14.36    20.48    24.97    29.04    31.66    29.27    17.12     9.46     4.23    17.05   TMX
+  TMN    -2.96    -3.35     0.30     0.16     4.97     8.98    11.95    13.40    10.74     4.10    -1.09    -3.69     3.63   TMN
+  RAD     4.09     7.65    13.08    19.28    24.31    27.98    27.40    24.83    17.60    10.16     6.05     4.27    15.56   RAD
+ RAIN    19.40     5.50    28.50    13.60    36.60    12.60     4.20     0.00     1.00    14.40     5.60     4.30   145.70  RAIN
+ SNOW     0.90     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.90  SNOW
+ RHUM     0.81     0.65     0.68     0.63     0.60     0.59     0.51     0.43     0.41     0.67     0.64     0.76     0.61  RHUM
+ UNO3     4.94     0.00     0.00     0.01     0.11     0.59     0.74     0.08     0.00     0.00     0.00     0.00     6.47  UNO3
+  PEP     0.00     0.00     0.73     2.54    16.12    38.35    50.65    52.63    37.28     5.90     0.00     0.00     1.17   PEP
+    Q     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.02     Q
+  SSF     0.45     0.01     0.20     0.03     0.12     0.03     0.01     0.00     0.00     0.04     0.01     0.01     0.92   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     3.98     8.58    26.08    20.76    42.30    49.48    45.29     9.61     4.12     8.78     4.24     1.34   224.57    ET
+   EP     0.00     0.00     0.73     2.53    16.06    38.19    42.00     8.82     3.10     1.64     0.00     0.00   113.07    EP
+  PET     6.04    21.22    50.80    79.69   117.25   147.88   154.98   147.10    94.77    37.50    19.42     4.04   880.68   PET
+  TMP    -0.20     3.26     4.56     7.29    10.38    15.61    19.44    22.20    20.05    10.87     4.69     1.39     9.96   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.08     0.00     0.03     0.00     0.01     0.00     0.00     0.00     0.00     0.01     0.00     0.00     0.13  SSFN
+  MNN     0.11     0.18     0.25     0.36     0.66     1.33     2.00     2.50     1.90     0.63     0.19     0.10    10.22   MNN
+  IMN     0.01     0.01     0.02     0.03     0.05     0.11     0.17     0.20     0.14     0.04     0.01     0.00     0.78   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     4.94     0.00     0.00     0.01     0.11     0.59     0.74     0.08     0.00     0.00     0.00     0.00     6.47  UNO3
+  HMN     0.09     0.14     0.20     0.28     0.49     0.98     1.47     1.85     1.44     0.50     0.16     0.08     7.68   HMN
+ SSFN     0.08     0.00     0.03     0.00     0.01     0.00     0.00     0.00     0.00     0.01     0.00     0.00     0.13  SSFN
+   SW     0.07     0.07     0.07     0.07     0.07     0.04     0.02     0.01     0.01     0.01     0.01     0.01             SW
+ TNO3    95.61    95.81    96.25    96.68    97.46    98.19    99.32   101.54   103.31   104.01   104.24   104.36           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.03     0.03     0.03     0.03     0.03     0.03     0.03     0.02     0.02     0.02     0.02     0.02            RSD
+  STD     0.00     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.26     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27            BDP
+ STRS457100500448100500448100500440100500432100500418100500410109500151400500154400500426119500443105500458100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2011
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    72.40   160.15   368.00   585.75   276.85   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.08     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.06     0.06     0.06     0.05     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02             RW
+ BIOM     0.16     0.16     0.19     0.23     0.06     0.12     0.12     0.12     0.12     0.12     0.12     0.12           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.18     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.16T/HA  BIOM=  0.23T/HA  IRGA=   0.MM  CAW&TAW= 242. 145.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 76.4  N=  0.5  P=  0.0  TEMP=121.3  AIR=  0.0
+
+   HU  4620.25  4620.25  4624.65  4628.75  4718.05  4927.30  5252.75  5641.05  5941.20  5988.85  5989.65  5989.65             HU
+  LAI     0.36     0.36     0.36     0.36     0.36     0.37     0.38     0.38     0.38     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.59     0.59     0.59     0.59     0.61     0.71     0.82     0.81     0.80     0.80     0.80     0.80             RW
+ BIOM     2.12     2.12     2.12     2.12     2.20     2.63     3.15     3.26     3.30     3.31     3.31     3.31           BIOM
+  CHT     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 242. 145.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 61.4  N=  0.0  P=  0.0  TEMP=257.8  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.1222 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.17 T/HA  RW=  0.03 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2012
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     5.40     8.85    13.27    19.26    22.02    24.33    32.63    32.99    28.49    18.07    11.06     6.33    18.56   TMX
+  TMN    -2.59    -0.68     0.00     4.23     6.23     8.81    15.29    14.30    10.18     3.90     2.72    -0.61     5.15   TMN
+  RAD     4.69     7.34    13.49    20.05    24.74    24.58    28.13    24.87    18.19    10.99     5.23     3.79    15.51   RAD
+ RAIN    16.50    24.70    27.30    24.70     5.20    43.40    14.50     0.00     0.00    32.00    36.20    42.30   266.80  RAIN
+ SNOW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  SNOW
+ RHUM     0.72     0.70     0.64     0.58     0.47     0.58     0.49     0.41     0.38     0.58     0.73     0.79     0.59  RHUM
+ UNO3     0.90     0.00     0.00     0.18     0.32     0.37     0.17     0.00     0.00     0.00     0.00     0.00     1.94  UNO3
+  PEP     0.00     0.00     0.33    17.94    35.16    32.39    62.99    57.46    38.05    11.49     2.40     0.00     2.13   PEP
+    Q     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     Q
+  SSF     0.10     0.18     0.12     0.08     0.01     0.16     0.04     0.00     0.00     0.14     0.49     0.93     2.26   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     3.76    11.92    24.94    37.11    30.44    41.32    20.37     2.26     1.02     8.96     7.83     5.28   195.20    ET
+   EP     0.00     0.00     0.29    15.88    21.52    17.70     8.73     1.71     0.96     1.00     1.90     0.00    69.69    EP
+  PET     9.87    21.92    58.08    92.05   129.55   134.85   171.86   150.84    89.26    44.47    12.52     8.49   923.77   PET
+  TMP     2.16     3.48     5.33    10.47    13.61    14.78    21.47    23.43    19.29    10.67     7.22     2.78    11.22   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.01     0.02     0.02     0.01     0.00     0.03     0.01     0.00     0.00     0.03     0.07     0.16     0.36  SSFN
+  MNN     0.12     0.15     0.24     0.63     0.89     1.05     2.24     2.40     1.57     0.57     0.36     0.14    10.37   MNN
+  IMN     0.01     0.01     0.01     0.04     0.05     0.06     0.13     0.12     0.07     0.02     0.01     0.00     0.55   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.90     0.00     0.00     0.18     0.32     0.37     0.17     0.00     0.00     0.00     0.00     0.00     1.94  UNO3
+  HMN     0.11     0.13     0.20     0.50     0.71     0.83     1.79     1.95     1.29     0.48     0.31     0.13     8.42   HMN
+ SSFN     0.01     0.02     0.02     0.01     0.00     0.03     0.01     0.00     0.00     0.03     0.07     0.16     0.36  SSFN
+   SW     0.02     0.03     0.03     0.02     0.01     0.01     0.00     0.00     0.00     0.02     0.04     0.06             SW
+ TNO3   103.71   104.04   104.46   105.06   105.61   106.54   108.60   110.87   112.36   113.13   113.70   114.02           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.02     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.25     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.28     1.28     1.28            BDP
+ STRS456100500449100500447100500430102500419116500117416500151400500159400500157400500131422500440102500455100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2012
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    16.55   135.00   340.70   650.00   304.70   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.06     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.05     0.04     0.04     0.03     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.12     0.12     0.13     0.17     0.05     0.05     0.05     0.05     0.05     0.05     0.05     0.05           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.28     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.12T/HA  BIOM=  0.17T/HA  IRGA=   0.MM  CAW&TAW= 287. 267.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=124.8  N=  0.0  P=  0.0  TEMP=107.9  AIR=  0.0
+
+   HU  5989.65  5989.75  5990.40  6069.15  6205.85  6402.90  6835.55  7258.50  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.80     0.80     0.80     0.82     0.86     0.90     0.88     0.84     0.82     0.82     0.82     0.82             RW
+ BIOM     3.31     3.31     3.31     3.44     3.66     3.93     4.05     4.07     4.08     4.09     4.11     4.11           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 287. 267.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=109.4  N=  0.0  P=  0.0  TEMP=225.5  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0775 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.11 T/HA  RW=  0.02 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2013
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     2.03    10.24    15.11    17.52    23.87    27.21    34.11    32.70    26.58    16.66     9.07     2.68    18.15   TMX
+  TMN    -5.21    -0.89     1.42     3.25     7.69    11.65    15.11    15.69    11.73     2.84    -0.70    -4.52     4.84   TMN
+  RAD     4.98     8.25    14.37    19.03    24.61    27.11    28.71    22.75    15.43    11.68     5.62     3.88    15.54   RAD
+ RAIN     6.00     3.40    11.80    10.90    22.80    34.40     0.00    15.60    23.50     3.30    12.50     4.80   149.00  RAIN
+ SNOW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  SNOW
+ RHUM     0.82     0.68     0.58     0.55     0.50     0.50     0.34     0.46     0.60     0.60     0.62     0.77     0.58  RHUM
+ UNO3     0.00     0.00     0.06     0.15     0.46     0.63     0.11     0.15     0.21     0.02     0.00     0.00     1.80  UNO3
+  PEP     0.00     0.00     6.53    13.96    39.28    49.69    68.28    55.40    30.47     8.65     0.00     0.00     1.19   PEP
+    Q     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     Q
+  SSF     0.15     0.00     0.07     0.03     0.06     0.11     0.00     0.04     0.06     0.00     0.04     0.01     0.59   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     2.20     6.51    20.50    23.65    50.85    60.02    10.28    16.38    21.57     6.33     4.90     1.94   225.13    ET
+   EP     0.00     0.00     6.42    13.72    38.58    38.14     7.97     8.22     9.24     2.02     0.00     0.00   124.32    EP
+  PET     4.13    21.33    59.05    91.00   128.99   152.72   182.77   142.89    85.33    36.14    17.54     5.04   926.91   PET
+  TMP    -1.31     5.32     7.72    10.79    14.91    17.11    23.98    22.85    18.30    10.11     5.62     0.18    11.30   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.03     0.00     0.01     0.01     0.01     0.02     0.00     0.02     0.02     0.00     0.01     0.00     0.13  SSFN
+  MNN     0.05     0.21     0.37     0.55     1.07     1.36     2.39     2.24     1.52     0.40     0.22     0.07    10.45   MNN
+  IMN     0.00     0.01     0.01     0.02     0.04     0.05     0.09     0.07     0.04     0.01     0.00     0.00     0.35   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.00     0.00     0.06     0.15     0.46     0.63     0.11     0.15     0.21     0.02     0.00     0.00     1.80  UNO3
+  HMN     0.05     0.18     0.32     0.47     0.92     1.16     2.06     1.96     1.35     0.36     0.20     0.07     9.11   HMN
+ SSFN     0.03     0.00     0.01     0.01     0.01     0.02     0.00     0.02     0.02     0.00     0.01     0.00     0.13  SSFN
+   SW     0.06     0.06     0.05     0.05     0.03     0.01     0.00     0.00     0.01     0.00     0.01     0.01             SW
+ TNO3   114.08   114.31   114.68   115.14   115.89   116.82   119.01   121.13   122.57   122.96   123.27   123.37           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.25     1.25     1.26     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27            BDP
+ STRS461100500442100500439100500430100500423100500413109500151403500151400500133407500128424500439109500458101500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2013
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    15.20   146.15   402.35   650.00   279.05   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.06     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.02     0.02     0.03     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.05     0.05     0.10     0.11     0.03     0.04     0.04     0.04     0.04     0.04     0.04     0.04           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.19     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.08T/HA  BIOM=  0.11T/HA  IRGA=   0.MM  CAW&TAW= 240. 149.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=106.2  N=  0.5  P=  0.0  TEMP=103.3  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.82     0.82     0.83     0.85     0.90     0.99     1.01     1.02     1.05     1.06     1.06     1.06             RW
+ BIOM     4.11     4.11     4.13     4.23     4.52     4.97     5.03     5.12     5.27     5.29     5.29     5.29           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 240. 149.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 76.2  N=  0.0  P=  0.0  TEMP=237.2  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0732 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.10 T/HA  RW=  0.02 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2014
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     4.45     4.72    14.40    18.67    24.70    26.89    34.38    31.75    26.36    19.58     7.80     5.58    18.27   TMX
+  TMN    -1.96    -3.19     1.18     4.21     8.39    11.51    16.47    15.90    10.77     7.61    -1.45    -1.13     5.69   TMN
+  RAD     4.73     6.68    13.13    20.07    26.39    27.44    27.46    23.41    17.26    10.31     5.51     3.34    15.48   RAD
+ RAIN    11.20    24.40    26.80    15.10     8.30     9.50     2.00    12.60     4.00    24.20    16.50    35.70   190.30  RAIN
+ SNOW     0.00     4.50     4.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     8.50  SNOW
+ RHUM     0.81     0.72     0.58     0.49     0.43     0.42     0.35     0.46     0.45     0.62     0.62     0.77     0.56  RHUM
+ UNO3     0.23     0.00     0.02     0.11     1.24     0.10     0.01     0.10     0.01     0.01     0.00     0.00     1.83  UNO3
+  PEP     0.00     0.00     4.83    16.02    47.41    49.63    67.92    54.68    33.53    14.98     0.80     0.00     1.52   PEP
+    Q     0.00     0.07     0.28     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.35     Q
+  SSF     0.06     0.17     0.26     0.03     0.02     0.02     0.00     0.03     0.01     0.07     0.07     0.52     1.27   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     3.62    11.76    20.26    30.41    30.65    10.95     2.91    13.08     3.00     9.85    13.03     2.84   152.36    ET
+   EP     0.00     0.00     4.41    14.62    22.04     4.43     0.82     5.46     0.62     1.21     0.56     0.00    54.19    EP
+  PET     8.15    21.24    59.52   100.15   145.23   160.95   181.01   147.95    95.27    45.93    23.08     4.91   993.39   PET
+  TMP     1.94     0.36     7.46    10.27    15.61    18.59    23.82    23.08    18.52    12.99     3.75     1.75    11.51   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.01     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.03  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.01     0.02     0.04     0.01     0.01     0.01     0.00     0.01     0.00     0.02     0.02     0.09     0.26  SSFN
+  MNN     0.11     0.09     0.33     0.44     0.97     1.34     2.12     2.06     1.24     0.68     0.18     0.10     9.66   MNN
+  IMN     0.00     0.00     0.01     0.01     0.03     0.03     0.05     0.04     0.02     0.01     0.00     0.00     0.21   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.23     0.00     0.02     0.11     1.24     0.10     0.01     0.10     0.01     0.01     0.00     0.00     1.83  UNO3
+  HMN     0.10     0.08     0.30     0.39     0.87     1.21     1.93     1.90     1.16     0.64     0.18     0.10     8.87   HMN
+ SSFN     0.01     0.02     0.04     0.01     0.01     0.01     0.00     0.01     0.00     0.02     0.02     0.09     0.26  SSFN
+   SW     0.02     0.02     0.03     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.01     0.03             SW
+ TNO3   123.33   123.55   123.98   124.41   124.18   125.45   127.53   129.53   130.77   131.60   131.90   132.20           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.25     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.28            BDP
+ STRS456102500451100500441100500432101500127411500150403500159400500153401500157400500137415500447103500455101500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2014
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU     8.15    86.95   336.80   650.00   344.95   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.06     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.02     0.01     0.02     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.04     0.04     0.06     0.10     0.03     0.03     0.03     0.03     0.03     0.03     0.03     0.03           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.41     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.07T/HA  BIOM=  0.10T/HA  IRGA=   0.MM  CAW&TAW= 200. 185.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=150.7  N=  0.0  P=  0.0  TEMP=104.5  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     1.06     1.06     1.06     1.07     1.11     1.12     1.12     1.14     1.14     1.14     1.14     1.14             RW
+ BIOM     5.29     5.29     5.30     5.36     5.54     5.60     5.61     5.68     5.69     5.71     5.71     5.71           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 200. 185.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=140.5  N=  0.0  P=  0.0  TEMP=206.8  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0523 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.07 T/HA  RW=  0.01 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2015
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     4.25    12.10    17.26    18.59    25.29    32.08    33.45    31.56    24.36    20.67     8.17     4.09    19.32   TMX
+  TMN    -1.33     1.72     3.26     3.17    10.15    15.32    16.33    15.04     9.00     7.52    -0.91    -2.28     6.42   TMN
+  RAD     4.46     8.09    14.03    20.92    26.58    29.85    28.22    23.82    17.05    10.75     5.83     3.72    16.11   RAD
+ RAIN    21.30    18.50    26.40     5.50    37.20     1.60     0.70     0.40    10.30    12.80    22.10    65.50   222.30  RAIN
+ SNOW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     2.70     3.40     6.10  SNOW
+ RHUM     0.80     0.67     0.56     0.48     0.45     0.33     0.36     0.35     0.47     0.58     0.69     0.83     0.55  RHUM
+ UNO3     0.04     0.00     0.05     0.16     1.21     0.29     0.03     0.00     0.07     0.02     0.00     0.00     1.87  UNO3
+  PEP     0.00     0.01     9.18    16.14    51.54    67.47    66.42    56.67    30.93    16.39     0.71     0.00     1.78   PEP
+    Q     0.55     0.00     0.00     0.00     0.08     0.00     0.00     0.00     0.00     0.00     0.00     1.81     2.44     Q
+  SSF     0.45     0.37     0.09     0.01     0.18     0.00     0.00     0.00     0.03     0.02     0.08     1.16     2.40   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     4.09     7.74    28.62    26.97    64.77    26.52     2.23     1.06    10.07     7.92     9.66     2.54   192.20    ET
+   EP     0.00     0.01     8.96    15.75    50.31    24.05     1.36     0.66     4.22     0.93     0.39     0.00   106.63    EP
+  PET     7.40    22.63    57.85    94.70   143.46   182.40   187.95   153.25    84.86    47.81    19.47     4.14  1005.93   PET
+  TMP     1.01     6.48     9.10    10.54    16.44    22.70    24.52    23.08    16.38    13.37     4.47     0.49    12.38   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.02     0.04  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.08     0.07     0.02     0.00     0.02     0.00     0.00     0.00     0.01     0.01     0.02     0.19     0.43  SSFN
+  MNN     0.08     0.24     0.40     0.46     1.12     1.83     2.04     1.90     0.93     0.62     0.17     0.07     9.85   MNN
+  IMN     0.00     0.00     0.00     0.01     0.02     0.03     0.03     0.02     0.01     0.01     0.00     0.00     0.12   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.04     0.00     0.05     0.16     1.21     0.29     0.03     0.00     0.07     0.02     0.00     0.00     1.87  UNO3
+  HMN     0.08     0.23     0.38     0.43     1.06     1.73     1.94     1.81     0.89     0.60     0.16     0.07     9.39   HMN
+ SSFN     0.08     0.07     0.02     0.00     0.02     0.00     0.00     0.00     0.01     0.01     0.02     0.19     0.43  SSFN
+   SW     0.05     0.05     0.05     0.04     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.05             SW
+ TNO3   132.32   132.63   133.18   133.51   133.67   135.19   137.18   139.05   139.97   140.66   140.99   141.36           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.26     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.28            BDP
+ STRS457101500439100500436100500431100500417100500133408500153407500160400500149404500150407500446104500458100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2015
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    45.00   238.45   556.45   650.00   391.60   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.03     0.00     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.01     0.01     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.03     0.03     0.07     0.07     0.02     0.03     0.03     0.03     0.03     0.03     0.03     0.03           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.47     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.05T/HA  BIOM=  0.07T/HA  IRGA=   0.MM  CAW&TAW= 271. 221.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=122.5  N=  0.6  P=  0.0  TEMP=106.6  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     1.14     1.14     1.15     1.17     1.26     1.29     1.29     1.29     1.30     1.31     1.31     1.31             RW
+ BIOM     5.71     5.71     5.73     5.84     6.28     6.45     6.46     6.47     6.52     6.54     6.54     6.54           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 271. 221.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=126.2  N=  0.0  P=  0.0  TEMP=203.3  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0496 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.07 T/HA  RW=  0.01 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2016
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     3.81    11.51    14.78    22.52    24.79    28.45    30.27    31.28    24.25    15.70    12.63     1.11    18.43   TMX
+  TMN    -2.13     1.29     2.46     7.05     9.94    11.96    14.29    13.86     9.08     6.55     3.51    -7.06     5.90   TMN
+  RAD     4.00     7.53    13.81    21.62    25.24    28.73    26.99    24.17    16.83     9.23     5.46     3.86    15.62   RAD
+ RAIN    38.70    15.50    31.30    12.50    16.30    15.40     6.10     0.40     3.40    73.10    20.00    25.40   258.10  RAIN
+ SNOW     2.70     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    12.90    15.60  SNOW
+ RHUM     0.79     0.72     0.63     0.54     0.52     0.45     0.48     0.41     0.52     0.73     0.72     0.76     0.61  RHUM
+ UNO3     0.39     0.00     0.02     0.40     1.25     0.67     0.12     0.04     0.03     0.00     0.00     0.00     2.94  UNO3
+  PEP     0.00     0.01     3.68    31.72    45.15    54.65    55.74    56.15    28.74     4.39     2.33     0.00     2.06   PEP
+    Q     0.14     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.38     0.00     1.58     2.09     Q
+  SSF     1.09     0.20     0.44     0.03     0.05     0.05     0.01     0.00     0.00     0.75     0.26     0.25     3.12   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     2.72    10.30    28.68    41.29    56.08    54.55    11.71     2.99     4.29    16.64     9.90     4.09   243.23    ET
+   EP     0.00     0.01     3.65    31.53    44.88    44.78     5.26     2.59     1.24     0.36     2.22     0.00   136.52    EP
+  PET     4.64    20.83    60.88   103.66   143.14   168.17   169.52   145.72    85.65    38.27    15.94     7.28   963.70   PET
+  TMP    -0.44     5.46     7.50    14.07    16.82    18.97    20.88    22.28    16.53     9.87     7.83    -2.72    11.42   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.01     0.00     0.07     0.08  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.24     0.04     0.08     0.01     0.01     0.01     0.00     0.00     0.00     0.08     0.03     0.03     0.52  SSFN
+  MNN     0.07     0.21     0.30     0.76     1.11     1.33     1.55     1.73     0.86     0.40     0.32     0.05     8.69   MNN
+  IMN     0.00     0.00     0.00     0.01     0.01     0.01     0.02     0.02     0.01     0.00     0.00     0.00     0.08   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.39     0.00     0.02     0.40     1.25     0.67     0.12     0.04     0.03     0.00     0.00     0.00     2.94  UNO3
+  HMN     0.07     0.20     0.30     0.73     1.08     1.28     1.50     1.68     0.84     0.39     0.31     0.05     8.44   HMN
+ SSFN     0.24     0.04     0.08     0.01     0.01     0.01     0.00     0.00     0.00     0.08     0.03     0.03     0.52  SSFN
+   SW     0.07     0.08     0.08     0.06     0.04     0.01     0.01     0.00     0.00     0.04     0.05     0.05             SW
+ TNO3   141.11   141.40   141.85   142.29   142.27   143.02   144.48   146.16   147.01   147.90   148.35   148.40           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.26     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.28     1.28     1.28            BDP
+ STRS459100500443100500440100500422100500415100500413108500155400500158400500156400500431113500439100500460100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2016
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    55.75   241.50   508.70   650.00   328.85   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.04     0.00     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.01     0.01     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.03     0.03     0.07     0.07     0.02     0.03     0.03     0.03     0.03     0.03     0.03     0.03           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.37     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.05T/HA  BIOM=  0.07T/HA  IRGA=   0.MM  CAW&TAW= 322. 246.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 95.0  N=  0.9  P=  0.0  TEMP=102.3  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     1.31     1.31     1.31     1.36     1.46     1.55     1.56     1.57     1.57     1.57     1.58     1.58             RW
+ BIOM     6.54     6.54     6.55     6.81     7.30     7.74     7.82     7.84     7.87     7.87     7.88     7.88           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 322. 246.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 94.8  N=  0.0  P=  0.0  TEMP=220.5  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0599 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.08 T/HA  RW=  0.02 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2017
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX    -2.28     4.00    12.65    16.95    23.83    27.89    33.46    32.94    25.59    17.06     9.15     1.72    16.91   TMX
+  TMN    -8.34    -4.04     2.77     3.91     8.48    11.39    14.67    15.31    11.04     3.70     0.80    -3.62     4.67   TMN
+  RAD     4.90     7.86    12.07    19.06    25.86    27.96    28.80    24.57    17.00    11.12     4.37     4.07    15.64   RAD
+ RAIN    27.80    54.30    38.10    28.20    20.20     8.10     0.00     0.50     9.90    25.50    42.70    22.80   278.10  RAIN
+ SNOW    15.80    10.40     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     8.60    34.80  SNOW
+ RHUM     0.73     0.77     0.70     0.60     0.54     0.52     0.41     0.37     0.47     0.58     0.73     0.80     0.60  RHUM
+ UNO3     0.00     0.55     0.00     0.07     1.30     0.85     0.70     0.08     0.07     0.03     0.00     0.00     3.65  UNO3
+  PEP     0.00     0.00     0.04    12.24    45.73    51.03    67.82    62.68    32.29     9.79     0.00     0.00     2.22   PEP
+    Q     1.24     9.28     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    10.51     Q
+  SSF     0.28     2.09     0.54     0.21     0.05     0.02     0.00     0.00     0.02     0.11     0.51     0.32     4.17   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     1.01     4.13    25.67    38.35    59.56    57.23    50.94     7.04     9.72    10.52     8.72     1.12   273.99    ET
+   EP     0.00     0.00     0.04    12.24    45.73    51.02    50.79     6.50     4.18     2.43     0.00     0.00   172.94    EP
+  PET     2.16     6.93    49.71    87.59   132.84   157.80   178.73   145.49    89.31    48.34    16.73     2.18   917.81   PET
+  TMP    -5.60    -1.75     5.74     9.32    14.12    18.96    23.42    23.42    18.05    10.85     5.14    -0.18    10.12   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.02     0.08     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.10  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.03     0.35     0.08     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.03     0.02     0.56  SSFN
+  MNN     0.02     0.04     0.23     0.40     0.85     1.32     1.92     1.83     1.15     0.44     0.18     0.06     8.44   MNN
+  IMN     0.00     0.00     0.00     0.00     0.01     0.01     0.02     0.02     0.01     0.00     0.00     0.00     0.07   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.00     0.55     0.00     0.07     1.30     0.85     0.70     0.08     0.07     0.03     0.00     0.00     3.65  UNO3
+  HMN     0.02     0.04     0.23     0.40     0.83     1.29     1.87     1.79     1.13     0.43     0.18     0.06     8.27   HMN
+ SSFN     0.03     0.35     0.08     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.03     0.02     0.56  SSFN
+   SW     0.06     0.10     0.11     0.10     0.08     0.04     0.01     0.01     0.01     0.02     0.04     0.05             SW
+ TNO3   148.47   148.14   148.60   149.13   148.83   149.35   150.55   152.28   153.43   154.03   154.51   154.67           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.26     1.27     1.27     1.28     1.28     1.28     1.28     1.28     1.28     1.28     1.28     1.28            BDP
+ STRS462100500456100500445100500434100500423100500415100500115411500155400500143407500128421500446101500460100500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2017
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU     6.95    46.15   285.15   598.10   361.10   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.01     0.02     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.01     0.01     0.01     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.03     0.03     0.03     0.08     0.03     0.03     0.03     0.03     0.03     0.03     0.03     0.03           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.45     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.06T/HA  BIOM=  0.08T/HA  IRGA=   0.MM  CAW&TAW= 347. 277.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 76.7  N=  0.4  P=  0.0  TEMP=141.2  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     1.58     1.58     1.58     1.58     1.65     1.76     1.85     1.86     1.87     1.88     1.88     1.88             RW
+ BIOM     7.88     7.88     7.88     7.91     8.24     8.80     9.26     9.30     9.35     9.38     9.38     9.38           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01            CHT
+  SAGE YLD=  0.00T/HA  BIOM=  0.00T/HA  IRGA=   0.MM  CAW&TAW= 347. 277.MM  MXRD=  0.00 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =     0.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 64.3  N=  0.0  P=  0.0  TEMP=239.4  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+        MO DAY  OPERATION
+         4   2  FERTILIZ  N =    0. KG/HA  P =    0. KG/HA
+         5  16  HARHAY90  BSQU  DPTH= -100. MM  YLD=   0.0506 T/HA  AGPM=  0.00 T/HA  STL=  0.01 T/HA  BIOM=  0.07 T/HA  RW=  0.01 T/HA  HI= 0.900
+        12  16  HARHAY90  SAGE  DPTH= -100. MM  YLD=   7.6095 T/HA  AGPM=  0.00 T/HA  STL=  0.85 T/HA  BIOM= 10.68 T/HA  RW=  2.14 T/HA  HI= 0.900
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2018
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+  TMX     6.45     8.74    13.80    17.99    26.45    27.05    33.57    31.18    24.52    17.26     8.75     5.02    18.40   TMX
+  TMN    -0.22    -2.17     0.65     4.90    11.19    10.86    15.52    14.02     8.90     4.30    -0.07    -0.91     5.58   TMN
+  RAD     4.12     7.65    14.29    18.67    26.74    28.93    28.78    24.08    17.25    10.99     5.63     3.88    15.92   RAD
+ RAIN    42.30    19.00     6.30    33.40    15.80     7.10     0.00     0.00     0.40    22.30    27.40    25.80   199.80  RAIN
+ SNOW     0.90     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.90  SNOW
+ RHUM     0.79     0.67     0.60     0.57     0.50     0.47     0.36     0.41     0.46     0.61     0.75     0.75     0.58  RHUM
+ UNO3     0.54     0.00     0.02     0.14     1.27     0.78     0.09     0.06     0.02     0.03     0.00     0.00     2.94  UNO3
+  PEP     0.00     0.76     2.27    16.90    54.87    50.72    69.54    56.23    31.57    11.20     2.47     0.00     1.60   PEP
+    Q     0.78     0.02     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.80     Q
+  SSF     1.25     0.30     0.00     0.26     0.04     0.01     0.00     0.00     0.00     0.07     0.21     0.38     2.52   SSF
+  PRK     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   PRK
+   ET     5.99    10.59    16.85    36.38    65.17    52.36     6.86     2.61     1.64    12.35     5.24     7.25   223.29    ET
+   EP     0.00     0.75     2.26    16.79    54.54    45.46     6.73     2.61     1.24     4.74     1.37     0.00   136.49    EP
+  PET     9.97    24.58    57.36    91.69   145.71   166.41   183.60   148.23    91.62    38.15    13.06    11.01   981.40   PET
+  TMP     1.55     3.76     6.02    10.54    17.92    17.98    23.28    22.87    16.80    11.02     5.17     2.23    11.59   TMP
+ MUSL     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  MUSL
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+   YW     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    YW
+  YON     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   YON
+ YNO3     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.01  YNO3
+ PRKN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  PRKN
+ SSFN     0.10     0.02     0.00     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.02     0.03     0.20  SSFN
+  MNN     0.10     0.16     0.22     0.46     1.23     1.09     1.79     1.72     0.86     0.44     0.19     0.10     8.36   MNN
+  IMN     0.00     0.00     0.00     0.00     0.01     0.01     0.02     0.01     0.01     0.00     0.00     0.00     0.07   IMN
+   DN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00    DN
+ NFIX     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00  NFIX
+ UNO3     0.54     0.00     0.02     0.14     1.27     0.78     0.09     0.06     0.02     0.03     0.00     0.00     2.94  UNO3
+  HMN     0.10     0.16     0.22     0.46     1.22     1.07     1.76     1.69     0.85     0.44     0.19     0.10     8.23   HMN
+ SSFN     0.10     0.02     0.00     0.02     0.00     0.00     0.00     0.00     0.00     0.01     0.02     0.03     0.20  SSFN
+   SW     0.08     0.08     0.07     0.07     0.04     0.01     0.01     0.00     0.00     0.01     0.02     0.04             SW
+ TNO3   154.52   154.81   155.06   155.63   155.70   156.06   157.74   159.39   160.22   160.80   161.19   161.47           TNO3
+  HU1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            HU1
+ LAI1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           LAI1
+   RD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00             RD
+  RW1     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            RW1
+ BIOM     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00           BIOM
+  RSD     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.08            RSD
+  STD     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00            STD
+  BDP     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.27     1.28     1.28     1.28            BDP
+ STRS455100500447100500444100500431100500415100500413106500154400500158400500157400500425120500446104500455101500           STRS
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+                                                           2018
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+   HU    84.55   197.80   421.75   650.00   368.85   650.00   650.00   650.00   650.00   650.00   650.00   650.00             HU
+  LAI     0.00     0.00     0.05     0.00     0.01     0.00     0.00     0.00     0.00     0.00     0.00     0.00            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     0.01     0.01     0.02     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01             RW
+ BIOM     0.03     0.03     0.07     0.07     0.02     0.03     0.03     0.03     0.03     0.03     0.03     0.03           BIOM
+  CHT     0.50     0.50     0.50     0.50     0.46     0.50     0.50     0.50     0.50     0.50     0.50     0.50            CHT
+  BSQU YLD=  0.05T/HA  BIOM=  0.07T/HA  IRGA=   0.MM  CAW&TAW= 280. 207.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =   650.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER=106.6  N=  0.7  P=  0.0  TEMP=106.8  AIR=  0.0
+
+   HU  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00  7500.00   750.00             HU
+  LAI     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.39     0.04            LAI
+   RD     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52     1.52             RD
+   RW     1.88     1.88     1.88     1.89     2.01     2.11     2.12     2.13     2.13     2.13     2.14     2.14             RW
+ BIOM     9.38     9.38     9.38     9.47    10.03    10.54    10.60    10.63    10.65    10.67    10.68     2.99           BIOM
+  CHT     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.01     0.00            CHT
+  SAGE YLD=  7.61T/HA  BIOM= 10.68T/HA  IRGA=   0.MM  CAW&TAW= 280. 207.MM  MXRD=  1.52 M  LIME= 0.00 T/HA
+    COST =    0.00 $/HA  RTRN =    0.00 $/HA  EK = 0.25  WK =  193.  MX HU =  7500.  THK =    0. MM
+         STRESS DAYS (BIOMASS)--  WATER= 92.9  N=  0.0  P=  0.0  TEMP=225.3  AIR=  0.0
+
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________FINAL SOIL DATA____________________
+
+                                                   SOIL LAYER NO
+                        1       2       3       3       3       3       4       4       4       4     TOT
+    DEPTH(M)           0.01    0.15    0.23    0.31    0.40    0.48    0.61    0.74    1.00    1.52
+    POROSITY(M/M)     0.516   0.517   0.479   0.479   0.479   0.479   0.460   0.460   0.460   0.460   0.470
+    FC SW(M/M)        0.156   0.156   0.171   0.171   0.171   0.171   0.223   0.223   0.223   0.223   0.205
+    WP SW(M/M)        0.061   0.061   0.075   0.075   0.075   0.075   0.068   0.068   0.068   0.068   0.069
+    SW(M/M)           0.141   0.153   0.171   0.171   0.171   0.171   0.111   0.070   0.072   0.074   0.105
+    SAT COND(MM/H)    32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40   32.40 
+    SSF TIME(D)         11.E    11.E    13.E    13.E    13.     13.     17.     17.     17.     17. 
+    BD 33KPA(T/M3)     1.24    1.25    1.38    1.38    1.38    1.38    1.43    1.43    1.43    1.43
+    BDD OV DRY(T/M3)   1.34    1.34    1.44    1.44    1.44    1.44    1.50    1.50    1.50    1.50 
+    SAND(%)            65.2    65.2    60.7    60.7    60.7    60.7    20.8    20.8    20.8    20.8
+    SILT(%)            27.3    27.3    27.8    27.8    27.8    27.8    67.7    67.7    67.7    67.7
+    CLAY(%)             7.5     7.5    11.5    11.5    11.5    11.5    11.5    11.5    11.5    11.5
+    ROCK(%)             0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+    PH                  7.6     7.6     8.2     8.2     8.2     8.2     8.5     8.5     8.5     8.5
+    SM BS(CMOL/KG)      0.0E    0.0E    0.0E    0.0E    0.0     0.0     7.5     7.5     7.5     7.5 
+    CEC(CMOL/KG)        7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5     7.5 
+    AL SAT(%)           0.0E    0.0E    0.0E    0.0E    0.0     0.0     0.0     0.0     0.0     0.0 
+    CACO3(%)            0.0     0.0     0.0     0.0     0.0     0.0    20.0    20.0    20.0    20.0
+    LAB P(G/T)          17.E    27.E    19.E    19.E    19.     19.      7.      7.      7.      7.    235.
+    P SORP RTO         0.50E   0.50E   0.50E   0.50E   0.50    0.50    0.46    0.46    0.46    0.46 
+    MN P AC(G/T)        19.E    27.E    19.E    19.E    19.     19.      8.      8.      8.      8.    253.
+    MN P ST(G/T)       107.E   107.E    74.E    74.E    74.     74.     31.     31.     31.     31.   1009.
+    ORG P(G/T)         105.E   105.E    18.E    18.E    18.     18.     18.     19.     19.     19.    561.
+    NO3(G/T)             3.E     2.E     2.E     2.E     2.      2.      3.      6.     19.      8.    161.
+    ORG N AC(G/T)      154.E   150.E    11.E    11.E    11.     11.     11.     11.     11.     11.    501.
+    ORG N ST(G/T)      701.E   702.E   138.E   138.E   138.    138.    138.    138.    138.    138.   4024.
+    ORG C(%)           0.85    0.85    0.15    0.15    0.15    0.15    0.15    0.15    0.15    0.15
+    CROP RSD(T/HA)     0.08E   0.01E   0.00E   0.00E   0.00    0.00    0.00    0.00    0.00    0.00    0.09
+    RWT(T/HA)          0.00    0.02    0.01    0.01    0.01    0.01    0.04    0.05    0.09    0.02    0.01
+
+         SOIL WATER BALANCE =    -0.233310E+03
+
+         ERODED SOIL THICKNESS =     0.1 MM
+
+         FINAL WATER CONTENT OF SNOW =    0.00 MM
+
+         N BALANCE =        5.3506
+
+         P BALANCE =        1.7273
+1
+    ALNC2011  2024   4  23  12:33:53
+
+          Saddle Mt Native                                                                
+          Great Basin 3 Batch_Default                                                     
+          Great Basin 3 Batch_Default                                                     
+
+
+ ____________________SUMMARY TABLE____________________
+
+
+ -----PEAK FLOW RATE STATS(MM/H)
+         MAX =     2.53     MEAN =     0.25     ST DV =    0.465     GEN EFF =  1.000
+
+ -----AVE MO VALUES
+                                                             11
+          JAN      FEB      MAR      APR      MAY      JUN      JUL      AUG      SEP      OCT      NOV      DEC       YR
+    C     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     C
+ MUSL     0.04     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.01     0.06  MUSL
+   YW       0.       0.       0.       0.       0.       0.       0.       0.       0.       0.       0.       0.       0.    YW
+ RAIN     24.1     19.5     22.6     16.1     19.7     16.0      3.5      4.0      7.2     23.7     22.0     30.4    208.8  RAIN
+ DAYP    10.36     8.91     9.64     6.55     6.55     4.73     2.18     1.82     3.36     9.27    10.82    12.91    87.09  DAYP
+  PRK      0.0      0.1      0.9      0.0      0.0      0.0      0.0      0.0      0.0      0.0      0.0      0.0      1.0   PRK
+    Q      1.2      0.9      0.1      0.0      0.0      0.0      0.0      0.0      0.0      0.0      0.0      0.8      3.0     Q
+   EI       0.       0.       0.       0.       0.       1.       0.       0.       0.       0.       0.       0.       2.    EI
+ DAYQ     1.09     0.64     0.18     0.00     0.09     0.00     0.00     0.00     0.00     0.09     0.00     0.73     2.82  DAYQ
+   SW     0.12     0.14     0.15     0.15     0.13     0.09     0.07     0.05     0.04     0.05     0.06     0.09     0.09    SW
+  QIN     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00   QIN
+   ET       4.       9.      23.      29.      44.      40.      20.      13.      11.      10.       8.       3.     214.    ET
+  PET       6.      19.      56.      92.     134.     157.     176.     146.      88.      42.      16.       5.     938.   PET
+  TMX     3.53     8.42    13.82    17.85    23.58    27.02    32.43    31.53    26.03    17.41     9.27     3.08    17.83   TMX
+  TMN    -3.23    -1.17     1.12     3.57     8.18    11.28    14.83    14.46    10.13     4.86     0.20    -3.75     5.04   TMN
+  RAD       5.       8.      14.      20.      25.      28.      28.      24.      17.      11.       5.       4.      16.   RAD
+ HRLT     8.50     9.47    10.97    12.75    14.38    15.59    15.76    14.81    13.21    11.48     9.80     8.66           HRLT
+
+ -----AVE ANNUAL VALUES
+
+
+   11   TMX   17.83   TMN    5.04   RAD   15.67  RAIN  208.83  SNOW    9.31  RHUM    0.59  UNO3    3.96   PEP    1.67     Q    2.99
+        SSF    2.06   PRK    1.04    ET  213.53    EP  109.76   PET  938.23   TMP   10.97  MUSL    0.06     C    0.00    YW    0.00
+        YON    0.09  YNO3    0.12  PRKN    0.10  SSFN    0.33   MNN   15.73   IMN    5.23    DN    0.00  NFIX    0.00  UNO3    3.96
+        HMN    8.79  SSFN    0.33  IRGA    0.00    FN    0.00    FP    0.00    CN   77.89   HU2    0.00  LAI2    0.00   WVL    2.04
+        PEP    1.67  LIME    0.00  COST    0.00  RTRN    0.00
+
+ -----AVE ANNUAL CROP YLD DATA                                                 AVE STRESS DAYS
+           CROP    YLD    BIOM     RAD      HU     RD       ------------BIOMASS-----------   ---ROOT GROWTH----
+                 (T/HA)  (T/HA) (MJ/M2)     (C)   (M)        WATER   N     P    TEMP   AIR      BD  ALSAT  TEMP
+           BSQU    0.10    0.15   5468.    624.    1.52       79.2   0.6   0.0 114.6   0.0      0.2   0.0   0.0
+           SAGE    7.61   10.68  47862.   7500.    1.52      788.7   0.4   0.02493.3   0.0      1.1   0.0   0.0
+          BEGINNING TIME: 12:33:53.
+          ENDING    TIME: 12:33:53.
+          ----------------------------
+          TOTAL RUN TIME: 12:33:53.
